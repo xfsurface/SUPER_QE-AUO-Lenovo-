@@ -1,0 +1,8 @@
+{
+  "name": "Super_QE管理平台_v20260829",
+  "description": "AUO\u0026Lenovo Super_QE管理平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "projectInfo": {
+    "title": "AUO & Lenovo 云端智能管理平台",
+    "subtitle": "INTELLIGENT MANUFACTURING ECOSYSTEM",
+    "version": "2.1.0"
+  },
+  "visuals": {
+    "backgrounds": {
+      "factory": {
+        "url": "https://auo.com/upload/media/about/Milestone/2021_now/2026/20260116_1.jpg",
+        "description": "Base AUO Factory Layer used in the main overview"
+      },
+      "cloudNode": {
+        "url": "https://www.lenovofuturecenter.com/pc_api/future-file-prod/20240813/a26d098e-f73a-43ba-851c-7c9b8db8f7f2/WH-New.jpg",
+        "description": "Image inside the Lenovo Cloud Node cloud shape",
+        "offset": "calc(50% - 200px) center"
+      }
+    }
+  },
+  "labels": {
+    "systemNodes": {
+      "s01": {
+        "id": "S01",
+        "activeStatus": "生产监控运行中",
+        "idleStatus": "点击扫描生产流程"
+      },
+      "s02": {
+        "id": "S02",
+        "activeStatus": "跳转 Lenovo S02",
+        "idleStatus": "点击打开S02生产流程监控"
+      },
+      "lenovoNode": {
+        "title": "Lenovo 联想",
+        "subtitle": "CLOUD NODE"
+      }
+    },
+    "interaction": {
+      "canEnter": "可进入",
+      "clickToEnter": "CLICK TO ENTER"
+    },
+    "charts": {
+      "yieldTitle": "良率",
+      "productivityTitle": "产能",
+      "yieldTrend": "Yield & Production Trend",
+      "energyConsumption": "Energy Consumption (kWh)"
+    },
+    "dashboards": {
+      "cut": {
+        "title": "CUT 智能管理看板",
+        "cards": {
+          "attendance": "人员出勤状况",
+          "quality": "材料品质监控[Cell来料不良]",
+          "machine": "机台运行状况",
+          "standard": "作业方法标准"
+        },
+        "envHeader": "环境因子实时分析",
+        "envMetrics": {
+          "particle": "颗粒度趋势",
+          "temp": "温度实时趋势",
+          "humidity": "湿度实时趋势"
+        },
+        "stats": {
+          "attendanceRate": "出勤率",
+          "detectionRate": "检出率[炸弹实验]",
+          "materialYield": "来料良率",
+          "totalHealth": "总健康得分",
+          "coreAnalysis": "核心要素分析"
+        },
+        "table": {
+          "line": "线体",
+          "param": "参数",
+          "value": "值",
+          "upperLimit": "上限",
+          "lowerLimit": "下限",
+          "status": "状态"
+        },
+        "files": {
+          "title": "受控文件管理"
+        }
+      },
+      "iqc": {
+        "title": "IQC 智能管理看板",
+        "stats": {
+          "title": "人员及抽检状况",
+          "attendance": "IQC出勤率",
+          "yield": "批次检验率"
+        },
+        "trend": {
+          "title": "来料合格趋势",
+          "subtitle": "来料合格率"
+        },
+        "table": {
+          "title": "检验设备状况"
+        },
+        "files": {
+          "title": "受控文件管理"
+        }
+      },
+      "pfa": {
+        "title": "PFA 智能管理看板",
+        "cards": {
+          "quality": "材料品质监控[偏光板来料不良]"
+        },
+        "stats": {
+          "title": "偏贴车间人员与品质控制",
+          "attendance": "偏贴段出勤率",
+          "yield": "贴附一次合格率"
+        },
+        "trend": {
+          "title": "偏贴贴附良率趋势",
+          "subtitle": "贴合良品率波动趋势"
+        },
+        "table": {
+          "title": "偏贴设备工艺参数状态"
+        },
+        "files": {
+          "title": "受控文件管理"
+        }
+      },
+      "bonding": {
+        "title": "BONDING 智能看板",
+        "cards": {
+          "quality": "材料品质监控[IC/FPC来料不良]"
+        },
+        "stats": {
+          "title": "绑定车间人员与品质控制",
+          "attendance": "BONDING段出勤率",
+          "detection": "BONDING段检出率",
+          "yield": "绑定一次合格率"
+        },
+        "trend": {
+          "title": "绑定热压对位良率趋势",
+          "subtitle": "COG/FOG贴合对位良率趋势"
+        },
+        "table": {
+          "title": "热压机运行状况"
+        },
+        "files": {
+          "title": "受控文件管理"
+        }
+      },
+      "assy": {
+        "title": "ASSY 智能看板",
+        "stats": {
+          "title": "组装车间人员与品质控制",
+          "attendance": "组装段出勤率",
+          "yield": "组装一次直通率"
+        },
+        "trend": {
+          "title": "组装直通率趋势",
+          "subtitle": "组装一次合格率波动趋势"
+        },
+        "table": {
+          "title": "组装设备运行状况"
+        },
+        "files": {
+          "title": "受控文件管理"
+        }
+      }
+    },
+    "process": {
+      "steps": {
+        "iqc": "IQC",
+        "cut": "CUT",
+        "pfa": "PFA",
+        "bonding": "Bonding",
+        "assy": "ASSY",
+        "shipping": "Shipping"
+      }
+    }
+  }
+}

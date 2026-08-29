@@ -1,0 +1,6444 @@
+{
+  "trendData": {
+    "cut": {
+      "2026-08-09": {
+        "yield": 99.83,
+        "productivity": 10080
+      },
+      "2026-08-10": {
+        "yield": 99.89,
+        "productivity": 13023
+      },
+      "2026-08-11": {
+        "yield": 99.85,
+        "productivity": 14731
+      },
+      "2026-08-12": {
+        "yield": 99.88,
+        "productivity": 13896
+      },
+      "2026-08-13": {
+        "yield": 99.88,
+        "productivity": 10301
+      },
+      "2026-08-14": {
+        "yield": 99.83,
+        "productivity": 11645
+      },
+      "2026-08-15": {
+        "yield": 99.85,
+        "productivity": 11226
+      }
+    },
+    "iqc": {},
+    "pfa": {
+      "2026-08-09": {
+        "yield": 98.7,
+        "productivity": 6608
+      },
+      "2026-08-10": {
+        "yield": 98.95,
+        "productivity": 6200
+      },
+      "2026-08-11": {
+        "yield": 98.73,
+        "productivity": 6524
+      },
+      "2026-08-12": {
+        "yield": 98.72,
+        "productivity": 6193
+      },
+      "2026-08-13": {
+        "yield": 98.97,
+        "productivity": 6520
+      },
+      "2026-08-14": {
+        "yield": 98.66,
+        "productivity": 6622
+      },
+      "2026-08-15": {
+        "yield": 98.52,
+        "productivity": 6772
+      }
+    },
+    "bonding": {
+      "2026-08-09": {
+        "yield": 99.65,
+        "productivity": 5963
+      },
+      "2026-08-10": {
+        "yield": 99.44,
+        "productivity": 5899
+      },
+      "2026-08-11": {
+        "yield": 99.65,
+        "productivity": 5752
+      },
+      "2026-08-12": {
+        "yield": 99.79,
+        "productivity": 6475
+      },
+      "2026-08-13": {
+        "yield": 99.8,
+        "productivity": 6042
+      },
+      "2026-08-14": {
+        "yield": 99.63,
+        "productivity": 5711
+      },
+      "2026-08-15": {
+        "yield": 99.41,
+        "productivity": 5866
+      },
+      "2024-08-16": {
+        "yield": 99.57,
+        "productivity": 5746
+      },
+      "2024-08-17": {
+        "yield": 99.67,
+        "productivity": 5624
+      },
+      "2024-08-18": {
+        "yield": 99.66,
+        "productivity": 5567
+      },
+      "2024-08-19": {
+        "yield": 99.52,
+        "productivity": 5560
+      },
+      "2024-08-20": {
+        "yield": 99.74,
+        "productivity": 6037
+      },
+      "2024-08-21": {
+        "yield": 99.44,
+        "productivity": 5922
+      },
+      "2024-08-22": {
+        "yield": 99.77,
+        "productivity": 5574
+      },
+      "2024-08-23": {
+        "yield": 99.45,
+        "productivity": 5711
+      },
+      "2024-08-24": {
+        "yield": 99.73,
+        "productivity": 5810
+      },
+      "2024-08-25": {
+        "yield": 99.66,
+        "productivity": 6360
+      },
+      "2024-08-26": {
+        "yield": 99.73,
+        "productivity": 5698
+      },
+      "2024-08-27": {
+        "yield": 99.71,
+        "productivity": 6373
+      },
+      "2024-08-28": {
+        "yield": 99.59,
+        "productivity": 5506
+      },
+      "2024-08-29": {
+        "yield": 99.59,
+        "productivity": 5866
+      },
+      "2024-08-30": {
+        "yield": 99.6,
+        "productivity": 6211
+      },
+      "2024-08-31": {
+        "yield": 99.48,
+        "productivity": 6264
+      },
+      "2024-09-01": {
+        "yield": 99.54,
+        "productivity": 5748
+      },
+      "2024-09-02": {
+        "yield": 99.67,
+        "productivity": 5561
+      },
+      "2024-09-03": {
+        "yield": 99.62,
+        "productivity": 6196
+      },
+      "2024-09-04": {
+        "yield": 99.67,
+        "productivity": 5704
+      },
+      "2024-09-05": {
+        "yield": 99.55,
+        "productivity": 6100
+      },
+      "2024-09-06": {
+        "yield": 99.48,
+        "productivity": 6259
+      },
+      "2024-09-07": {
+        "yield": 99.75,
+        "productivity": 6192
+      },
+      "2024-09-08": {
+        "yield": 99.79,
+        "productivity": 5660
+      },
+      "2024-09-09": {
+        "yield": 99.74,
+        "productivity": 6232
+      },
+      "2024-09-10": {
+        "yield": 99.58,
+        "productivity": 5769
+      },
+      "2024-09-11": {
+        "yield": 99.54,
+        "productivity": 5664
+      },
+      "2024-09-12": {
+        "yield": 99.75,
+        "productivity": 6350
+      },
+      "2024-09-13": {
+        "yield": 99.8,
+        "productivity": 6246
+      },
+      "2024-09-14": {
+        "yield": 99.69,
+        "productivity": 6455
+      },
+      "2024-09-15": {
+        "yield": 99.53,
+        "productivity": 5819
+      },
+      "2024-09-16": {
+        "yield": 99.64,
+        "productivity": 6381
+      },
+      "2024-09-17": {
+        "yield": 99.43,
+        "productivity": 6066
+      },
+      "2024-09-18": {
+        "yield": 99.76,
+        "productivity": 6140
+      },
+      "2024-09-19": {
+        "yield": 99.73,
+        "productivity": 6374
+      },
+      "2024-09-20": {
+        "yield": 99.65,
+        "productivity": 6284
+      },
+      "2024-09-21": {
+        "yield": 99.41,
+        "productivity": 5732
+      },
+      "2024-09-22": {
+        "yield": 99.51,
+        "productivity": 6306
+      },
+      "2024-09-23": {
+        "yield": 99.57,
+        "productivity": 5529
+      },
+      "2024-09-24": {
+        "yield": 99.56,
+        "productivity": 5664
+      },
+      "2024-09-25": {
+        "yield": 99.73,
+        "productivity": 5803
+      },
+      "2024-09-26": {
+        "yield": 99.49,
+        "productivity": 5920
+      },
+      "2024-09-27": {
+        "yield": 99.5,
+        "productivity": 6088
+      },
+      "2024-09-28": {
+        "yield": 99.54,
+        "productivity": 6220
+      },
+      "2024-09-29": {
+        "yield": 99.43,
+        "productivity": 5694
+      },
+      "2024-09-30": {
+        "yield": 99.65,
+        "productivity": 6302
+      },
+      "2024-10-01": {
+        "yield": 99.58,
+        "productivity": 6443
+      },
+      "2024-10-02": {
+        "yield": 99.41,
+        "productivity": 6499
+      },
+      "2024-10-03": {
+        "yield": 99.6,
+        "productivity": 6464
+      },
+      "2024-10-04": {
+        "yield": 99.67,
+        "productivity": 6139
+      },
+      "2024-10-05": {
+        "yield": 99.5,
+        "productivity": 5699
+      },
+      "2024-10-06": {
+        "yield": 99.45,
+        "productivity": 6009
+      },
+      "2024-10-07": {
+        "yield": 99.41,
+        "productivity": 5615
+      },
+      "2024-10-08": {
+        "yield": 99.68,
+        "productivity": 5550
+      },
+      "2024-10-09": {
+        "yield": 99.41,
+        "productivity": 6449
+      },
+      "2024-10-10": {
+        "yield": 99.72,
+        "productivity": 5658
+      },
+      "2024-10-11": {
+        "yield": 99.42,
+        "productivity": 6179
+      },
+      "2024-10-12": {
+        "yield": 99.46,
+        "productivity": 5932
+      },
+      "2024-10-13": {
+        "yield": 99.65,
+        "productivity": 6178
+      },
+      "2024-10-14": {
+        "yield": 99.58,
+        "productivity": 5900
+      },
+      "2024-10-15": {
+        "yield": 99.64,
+        "productivity": 5504
+      },
+      "2024-10-16": {
+        "yield": 99.45,
+        "productivity": 5660
+      },
+      "2024-10-17": {
+        "yield": 99.68,
+        "productivity": 6148
+      },
+      "2024-10-18": {
+        "yield": 99.72,
+        "productivity": 5622
+      },
+      "2024-10-19": {
+        "yield": 99.63,
+        "productivity": 5892
+      },
+      "2024-10-20": {
+        "yield": 99.42,
+        "productivity": 5623
+      },
+      "2024-10-21": {
+        "yield": 99.72,
+        "productivity": 6300
+      },
+      "2024-10-22": {
+        "yield": 99.48,
+        "productivity": 5910
+      },
+      "2024-10-23": {
+        "yield": 99.42,
+        "productivity": 6113
+      },
+      "2024-10-24": {
+        "yield": 99.78,
+        "productivity": 6439
+      },
+      "2024-10-25": {
+        "yield": 99.72,
+        "productivity": 6028
+      },
+      "2024-10-26": {
+        "yield": 99.47,
+        "productivity": 5533
+      },
+      "2024-10-27": {
+        "yield": 99.68,
+        "productivity": 6285
+      },
+      "2024-10-28": {
+        "yield": 99.72,
+        "productivity": 5635
+      },
+      "2024-10-29": {
+        "yield": 99.51,
+        "productivity": 5859
+      },
+      "2024-10-30": {
+        "yield": 99.76,
+        "productivity": 6479
+      },
+      "2024-10-31": {
+        "yield": 99.54,
+        "productivity": 5545
+      },
+      "2024-11-01": {
+        "yield": 99.56,
+        "productivity": 6233
+      },
+      "2024-11-02": {
+        "yield": 99.58,
+        "productivity": 5855
+      },
+      "2024-11-03": {
+        "yield": 99.44,
+        "productivity": 5726
+      },
+      "2024-11-04": {
+        "yield": 99.65,
+        "productivity": 5998
+      },
+      "2024-11-05": {
+        "yield": 99.65,
+        "productivity": 6132
+      },
+      "2024-11-06": {
+        "yield": 99.41,
+        "productivity": 6450
+      },
+      "2024-11-07": {
+        "yield": 99.43,
+        "productivity": 6371
+      },
+      "2024-11-08": {
+        "yield": 99.66,
+        "productivity": 5985
+      },
+      "2024-11-09": {
+        "yield": 99.47,
+        "productivity": 5990
+      },
+      "2024-11-10": {
+        "yield": 99.75,
+        "productivity": 6320
+      },
+      "2024-11-11": {
+        "yield": 99.47,
+        "productivity": 5600
+      },
+      "2024-11-12": {
+        "yield": 99.54,
+        "productivity": 5669
+      },
+      "2024-11-13": {
+        "yield": 99.45,
+        "productivity": 6007
+      },
+      "2024-11-14": {
+        "yield": 99.62,
+        "productivity": 5565
+      },
+      "2024-11-15": {
+        "yield": 99.45,
+        "productivity": 6085
+      },
+      "2024-11-16": {
+        "yield": 99.57,
+        "productivity": 5886
+      },
+      "2024-11-17": {
+        "yield": 99.47,
+        "productivity": 5792
+      },
+      "2024-11-18": {
+        "yield": 99.59,
+        "productivity": 5547
+      },
+      "2024-11-19": {
+        "yield": 99.62,
+        "productivity": 5965
+      },
+      "2024-11-20": {
+        "yield": 99.51,
+        "productivity": 6365
+      },
+      "2024-11-21": {
+        "yield": 99.72,
+        "productivity": 6023
+      },
+      "2024-11-22": {
+        "yield": 99.8,
+        "productivity": 6223
+      },
+      "2024-11-23": {
+        "yield": 99.65,
+        "productivity": 5575
+      },
+      "2024-11-24": {
+        "yield": 99.78,
+        "productivity": 6464
+      },
+      "2024-11-25": {
+        "yield": 99.61,
+        "productivity": 6325
+      },
+      "2024-11-26": {
+        "yield": 99.44,
+        "productivity": 6330
+      },
+      "2024-11-27": {
+        "yield": 99.57,
+        "productivity": 5672
+      },
+      "2024-11-28": {
+        "yield": 99.68,
+        "productivity": 6349
+      },
+      "2024-11-29": {
+        "yield": 99.77,
+        "productivity": 5899
+      },
+      "2024-11-30": {
+        "yield": 99.48,
+        "productivity": 5638
+      },
+      "2024-12-01": {
+        "yield": 99.55,
+        "productivity": 6293
+      },
+      "2024-12-02": {
+        "yield": 99.47,
+        "productivity": 6372
+      },
+      "2024-12-03": {
+        "yield": 99.43,
+        "productivity": 6396
+      },
+      "2024-12-04": {
+        "yield": 99.49,
+        "productivity": 6130
+      },
+      "2024-12-05": {
+        "yield": 99.54,
+        "productivity": 6386
+      },
+      "2024-12-06": {
+        "yield": 99.8,
+        "productivity": 6294
+      },
+      "2024-12-07": {
+        "yield": 99.42,
+        "productivity": 6393
+      },
+      "2024-12-08": {
+        "yield": 99.54,
+        "productivity": 5917
+      },
+      "2024-12-09": {
+        "yield": 99.58,
+        "productivity": 5608
+      },
+      "2024-12-10": {
+        "yield": 99.72,
+        "productivity": 5596
+      },
+      "2024-12-11": {
+        "yield": 99.6,
+        "productivity": 5642
+      },
+      "2024-12-12": {
+        "yield": 99.51,
+        "productivity": 6438
+      },
+      "2024-12-13": {
+        "yield": 99.65,
+        "productivity": 5801
+      },
+      "2024-12-14": {
+        "yield": 99.57,
+        "productivity": 5824
+      },
+      "2024-12-15": {
+        "yield": 99.8,
+        "productivity": 6190
+      },
+      "2024-12-16": {
+        "yield": 99.78,
+        "productivity": 6437
+      },
+      "2024-12-17": {
+        "yield": 99.77,
+        "productivity": 5682
+      },
+      "2024-12-18": {
+        "yield": 99.57,
+        "productivity": 6455
+      },
+      "2024-12-19": {
+        "yield": 99.47,
+        "productivity": 6400
+      },
+      "2024-12-20": {
+        "yield": 99.58,
+        "productivity": 5729
+      },
+      "2024-12-21": {
+        "yield": 99.72,
+        "productivity": 5902
+      },
+      "2024-12-22": {
+        "yield": 99.61,
+        "productivity": 6252
+      },
+      "2024-12-23": {
+        "yield": 99.6,
+        "productivity": 5536
+      },
+      "2024-12-24": {
+        "yield": 99.45,
+        "productivity": 6460
+      },
+      "2024-12-25": {
+        "yield": 99.68,
+        "productivity": 5987
+      },
+      "2024-12-26": {
+        "yield": 99.74,
+        "productivity": 5889
+      },
+      "2024-12-27": {
+        "yield": 99.66,
+        "productivity": 6431
+      },
+      "2024-12-28": {
+        "yield": 99.41,
+        "productivity": 5974
+      },
+      "2024-12-29": {
+        "yield": 99.47,
+        "productivity": 5697
+      },
+      "2024-12-30": {
+        "yield": 99.67,
+        "productivity": 6374
+      },
+      "2024-12-31": {
+        "yield": 99.47,
+        "productivity": 5553
+      },
+      "2025-01-01": {
+        "yield": 99.58,
+        "productivity": 6439
+      },
+      "2025-01-02": {
+        "yield": 99.69,
+        "productivity": 6198
+      },
+      "2025-01-03": {
+        "yield": 99.61,
+        "productivity": 5654
+      },
+      "2025-01-04": {
+        "yield": 99.52,
+        "productivity": 6022
+      },
+      "2025-01-05": {
+        "yield": 99.52,
+        "productivity": 5791
+      },
+      "2025-01-06": {
+        "yield": 99.49,
+        "productivity": 5945
+      },
+      "2025-01-07": {
+        "yield": 99.72,
+        "productivity": 6453
+      },
+      "2025-01-08": {
+        "yield": 99.42,
+        "productivity": 6245
+      },
+      "2025-01-09": {
+        "yield": 99.56,
+        "productivity": 5537
+      },
+      "2025-01-10": {
+        "yield": 99.4,
+        "productivity": 6290
+      },
+      "2025-01-11": {
+        "yield": 99.69,
+        "productivity": 6334
+      },
+      "2025-01-12": {
+        "yield": 99.78,
+        "productivity": 6209
+      },
+      "2025-01-13": {
+        "yield": 99.56,
+        "productivity": 5902
+      },
+      "2025-01-14": {
+        "yield": 99.74,
+        "productivity": 5680
+      },
+      "2025-01-15": {
+        "yield": 99.71,
+        "productivity": 6497
+      },
+      "2025-01-16": {
+        "yield": 99.49,
+        "productivity": 6494
+      },
+      "2025-01-17": {
+        "yield": 99.42,
+        "productivity": 5732
+      },
+      "2025-01-18": {
+        "yield": 99.69,
+        "productivity": 5889
+      },
+      "2025-01-19": {
+        "yield": 99.45,
+        "productivity": 6146
+      },
+      "2025-01-20": {
+        "yield": 99.64,
+        "productivity": 5649
+      },
+      "2025-01-21": {
+        "yield": 99.48,
+        "productivity": 6199
+      },
+      "2025-01-22": {
+        "yield": 99.66,
+        "productivity": 6348
+      },
+      "2025-01-23": {
+        "yield": 99.57,
+        "productivity": 6319
+      },
+      "2025-01-24": {
+        "yield": 99.45,
+        "productivity": 5971
+      },
+      "2025-01-25": {
+        "yield": 99.53,
+        "productivity": 5724
+      },
+      "2025-01-26": {
+        "yield": 99.59,
+        "productivity": 6353
+      },
+      "2025-01-27": {
+        "yield": 99.72,
+        "productivity": 5532
+      },
+      "2025-01-28": {
+        "yield": 99.77,
+        "productivity": 6229
+      },
+      "2025-01-29": {
+        "yield": 99.79,
+        "productivity": 5795
+      },
+      "2025-01-30": {
+        "yield": 99.55,
+        "productivity": 5894
+      },
+      "2025-01-31": {
+        "yield": 99.6,
+        "productivity": 6075
+      },
+      "2025-02-01": {
+        "yield": 99.63,
+        "productivity": 5781
+      },
+      "2025-02-02": {
+        "yield": 99.59,
+        "productivity": 6112
+      },
+      "2025-02-03": {
+        "yield": 99.52,
+        "productivity": 6173
+      },
+      "2025-02-04": {
+        "yield": 99.51,
+        "productivity": 6170
+      },
+      "2025-02-05": {
+        "yield": 99.8,
+        "productivity": 5586
+      },
+      "2025-02-06": {
+        "yield": 99.78,
+        "productivity": 6466
+      },
+      "2025-02-07": {
+        "yield": 99.59,
+        "productivity": 6063
+      },
+      "2025-02-08": {
+        "yield": 99.68,
+        "productivity": 6440
+      },
+      "2025-02-09": {
+        "yield": 99.77,
+        "productivity": 6271
+      },
+      "2025-02-10": {
+        "yield": 99.59,
+        "productivity": 5999
+      },
+      "2025-02-11": {
+        "yield": 99.63,
+        "productivity": 5581
+      },
+      "2025-02-12": {
+        "yield": 99.62,
+        "productivity": 5876
+      },
+      "2025-02-13": {
+        "yield": 99.79,
+        "productivity": 6407
+      },
+      "2025-02-14": {
+        "yield": 99.47,
+        "productivity": 6455
+      },
+      "2025-02-15": {
+        "yield": 99.61,
+        "productivity": 5813
+      },
+      "2025-02-16": {
+        "yield": 99.72,
+        "productivity": 6258
+      },
+      "2025-02-17": {
+        "yield": 99.44,
+        "productivity": 5929
+      },
+      "2025-02-18": {
+        "yield": 99.64,
+        "productivity": 5874
+      },
+      "2025-02-19": {
+        "yield": 99.62,
+        "productivity": 5944
+      },
+      "2025-02-20": {
+        "yield": 99.47,
+        "productivity": 6173
+      },
+      "2025-02-21": {
+        "yield": 99.4,
+        "productivity": 6412
+      },
+      "2025-02-22": {
+        "yield": 99.43,
+        "productivity": 5781
+      },
+      "2025-02-23": {
+        "yield": 99.53,
+        "productivity": 6470
+      },
+      "2025-02-24": {
+        "yield": 99.52,
+        "productivity": 5940
+      },
+      "2025-02-25": {
+        "yield": 99.54,
+        "productivity": 6442
+      },
+      "2025-02-26": {
+        "yield": 99.54,
+        "productivity": 6424
+      },
+      "2025-02-27": {
+        "yield": 99.5,
+        "productivity": 5909
+      },
+      "2025-02-28": {
+        "yield": 99.63,
+        "productivity": 5564
+      },
+      "2025-03-01": {
+        "yield": 99.61,
+        "productivity": 5793
+      },
+      "2025-03-02": {
+        "yield": 99.65,
+        "productivity": 5811
+      },
+      "2025-03-03": {
+        "yield": 99.42,
+        "productivity": 5591
+      },
+      "2025-03-04": {
+        "yield": 99.61,
+        "productivity": 6131
+      },
+      "2025-03-05": {
+        "yield": 99.78,
+        "productivity": 6015
+      },
+      "2025-03-06": {
+        "yield": 99.66,
+        "productivity": 6427
+      },
+      "2025-03-07": {
+        "yield": 99.55,
+        "productivity": 5870
+      },
+      "2025-03-08": {
+        "yield": 99.49,
+        "productivity": 5955
+      },
+      "2025-03-09": {
+        "yield": 99.57,
+        "productivity": 5951
+      },
+      "2025-03-10": {
+        "yield": 99.41,
+        "productivity": 6370
+      },
+      "2025-03-11": {
+        "yield": 99.57,
+        "productivity": 6284
+      },
+      "2025-03-12": {
+        "yield": 99.58,
+        "productivity": 6418
+      },
+      "2025-03-13": {
+        "yield": 99.65,
+        "productivity": 5708
+      },
+      "2025-03-14": {
+        "yield": 99.69,
+        "productivity": 5738
+      },
+      "2025-03-15": {
+        "yield": 99.57,
+        "productivity": 5550
+      },
+      "2025-03-16": {
+        "yield": 99.64,
+        "productivity": 6163
+      },
+      "2025-03-17": {
+        "yield": 99.49,
+        "productivity": 6177
+      },
+      "2025-03-18": {
+        "yield": 99.44,
+        "productivity": 6149
+      },
+      "2025-03-19": {
+        "yield": 99.69,
+        "productivity": 5788
+      },
+      "2025-03-20": {
+        "yield": 99.74,
+        "productivity": 5838
+      },
+      "2025-03-21": {
+        "yield": 99.72,
+        "productivity": 5569
+      },
+      "2025-03-22": {
+        "yield": 99.67,
+        "productivity": 6058
+      },
+      "2025-03-23": {
+        "yield": 99.66,
+        "productivity": 6021
+      },
+      "2025-03-24": {
+        "yield": 99.42,
+        "productivity": 6355
+      },
+      "2025-03-25": {
+        "yield": 99.43,
+        "productivity": 6196
+      },
+      "2025-03-26": {
+        "yield": 99.5,
+        "productivity": 6182
+      },
+      "2025-03-27": {
+        "yield": 99.46,
+        "productivity": 6020
+      },
+      "2025-03-28": {
+        "yield": 99.7,
+        "productivity": 6382
+      },
+      "2025-03-29": {
+        "yield": 99.79,
+        "productivity": 5545
+      },
+      "2025-03-30": {
+        "yield": 99.51,
+        "productivity": 5611
+      },
+      "2025-03-31": {
+        "yield": 99.46,
+        "productivity": 6146
+      },
+      "2025-04-01": {
+        "yield": 99.45,
+        "productivity": 5769
+      },
+      "2025-04-02": {
+        "yield": 99.7,
+        "productivity": 5572
+      },
+      "2025-04-03": {
+        "yield": 99.56,
+        "productivity": 5944
+      },
+      "2025-04-04": {
+        "yield": 99.46,
+        "productivity": 5881
+      },
+      "2025-04-05": {
+        "yield": 99.49,
+        "productivity": 6034
+      },
+      "2025-04-06": {
+        "yield": 99.45,
+        "productivity": 6460
+      },
+      "2025-04-07": {
+        "yield": 99.56,
+        "productivity": 5579
+      },
+      "2025-04-08": {
+        "yield": 99.51,
+        "productivity": 5558
+      },
+      "2025-04-09": {
+        "yield": 99.77,
+        "productivity": 5906
+      },
+      "2025-04-10": {
+        "yield": 99.66,
+        "productivity": 6093
+      },
+      "2025-04-11": {
+        "yield": 99.7,
+        "productivity": 5785
+      },
+      "2025-04-12": {
+        "yield": 99.54,
+        "productivity": 6445
+      },
+      "2025-04-13": {
+        "yield": 99.75,
+        "productivity": 6407
+      },
+      "2025-04-14": {
+        "yield": 99.72,
+        "productivity": 5854
+      },
+      "2025-04-15": {
+        "yield": 99.49,
+        "productivity": 6117
+      },
+      "2025-04-16": {
+        "yield": 99.66,
+        "productivity": 5906
+      },
+      "2025-04-17": {
+        "yield": 99.6,
+        "productivity": 6096
+      },
+      "2025-04-18": {
+        "yield": 99.63,
+        "productivity": 5931
+      },
+      "2025-04-19": {
+        "yield": 99.58,
+        "productivity": 6157
+      },
+      "2025-04-20": {
+        "yield": 99.68,
+        "productivity": 6128
+      },
+      "2025-04-21": {
+        "yield": 99.52,
+        "productivity": 6246
+      },
+      "2025-04-22": {
+        "yield": 99.47,
+        "productivity": 6411
+      },
+      "2025-04-23": {
+        "yield": 99.64,
+        "productivity": 5900
+      },
+      "2025-04-24": {
+        "yield": 99.42,
+        "productivity": 5988
+      },
+      "2025-04-25": {
+        "yield": 99.52,
+        "productivity": 6186
+      },
+      "2025-04-26": {
+        "yield": 99.65,
+        "productivity": 5830
+      },
+      "2025-04-27": {
+        "yield": 99.73,
+        "productivity": 6153
+      },
+      "2025-04-28": {
+        "yield": 99.61,
+        "productivity": 6430
+      },
+      "2025-04-29": {
+        "yield": 99.59,
+        "productivity": 6083
+      },
+      "2025-04-30": {
+        "yield": 99.53,
+        "productivity": 5858
+      },
+      "2025-05-01": {
+        "yield": 99.73,
+        "productivity": 6350
+      },
+      "2025-05-02": {
+        "yield": 99.71,
+        "productivity": 6270
+      },
+      "2025-05-03": {
+        "yield": 99.64,
+        "productivity": 5985
+      },
+      "2025-05-04": {
+        "yield": 99.65,
+        "productivity": 5512
+      },
+      "2025-05-05": {
+        "yield": 99.53,
+        "productivity": 5798
+      },
+      "2025-05-06": {
+        "yield": 99.56,
+        "productivity": 5821
+      },
+      "2025-05-07": {
+        "yield": 99.61,
+        "productivity": 6412
+      },
+      "2025-05-08": {
+        "yield": 99.61,
+        "productivity": 5733
+      },
+      "2025-05-09": {
+        "yield": 99.56,
+        "productivity": 5589
+      },
+      "2025-05-10": {
+        "yield": 99.71,
+        "productivity": 6408
+      },
+      "2025-05-11": {
+        "yield": 99.67,
+        "productivity": 5985
+      },
+      "2025-05-12": {
+        "yield": 99.46,
+        "productivity": 6329
+      },
+      "2025-05-13": {
+        "yield": 99.62,
+        "productivity": 6167
+      },
+      "2025-05-14": {
+        "yield": 99.59,
+        "productivity": 5745
+      },
+      "2025-05-15": {
+        "yield": 99.76,
+        "productivity": 6153
+      },
+      "2025-05-16": {
+        "yield": 99.56,
+        "productivity": 5751
+      },
+      "2025-05-17": {
+        "yield": 99.47,
+        "productivity": 5968
+      },
+      "2025-05-18": {
+        "yield": 99.74,
+        "productivity": 6040
+      },
+      "2025-05-19": {
+        "yield": 99.48,
+        "productivity": 5774
+      },
+      "2025-05-20": {
+        "yield": 99.4,
+        "productivity": 6472
+      },
+      "2025-05-21": {
+        "yield": 99.53,
+        "productivity": 6328
+      },
+      "2025-05-22": {
+        "yield": 99.76,
+        "productivity": 5822
+      },
+      "2025-05-23": {
+        "yield": 99.72,
+        "productivity": 5993
+      },
+      "2025-05-24": {
+        "yield": 99.7,
+        "productivity": 6443
+      },
+      "2025-05-25": {
+        "yield": 99.8,
+        "productivity": 5719
+      },
+      "2025-05-26": {
+        "yield": 99.52,
+        "productivity": 5977
+      },
+      "2025-05-27": {
+        "yield": 99.73,
+        "productivity": 5564
+      },
+      "2025-05-28": {
+        "yield": 99.7,
+        "productivity": 6436
+      },
+      "2025-05-29": {
+        "yield": 99.8,
+        "productivity": 6450
+      },
+      "2025-05-30": {
+        "yield": 99.65,
+        "productivity": 5935
+      },
+      "2025-05-31": {
+        "yield": 99.68,
+        "productivity": 5659
+      },
+      "2025-06-01": {
+        "yield": 99.4,
+        "productivity": 6494
+      },
+      "2025-06-02": {
+        "yield": 99.66,
+        "productivity": 5678
+      },
+      "2025-06-03": {
+        "yield": 99.55,
+        "productivity": 5510
+      },
+      "2025-06-04": {
+        "yield": 99.72,
+        "productivity": 5648
+      },
+      "2025-06-05": {
+        "yield": 99.69,
+        "productivity": 5719
+      },
+      "2025-06-06": {
+        "yield": 99.58,
+        "productivity": 6170
+      },
+      "2025-06-07": {
+        "yield": 99.5,
+        "productivity": 5941
+      },
+      "2025-06-08": {
+        "yield": 99.71,
+        "productivity": 6069
+      },
+      "2025-06-09": {
+        "yield": 99.54,
+        "productivity": 5872
+      },
+      "2025-06-10": {
+        "yield": 99.71,
+        "productivity": 6460
+      },
+      "2025-06-11": {
+        "yield": 99.63,
+        "productivity": 6221
+      },
+      "2025-06-12": {
+        "yield": 99.47,
+        "productivity": 6403
+      },
+      "2025-06-13": {
+        "yield": 99.43,
+        "productivity": 6270
+      },
+      "2025-06-14": {
+        "yield": 99.59,
+        "productivity": 6204
+      },
+      "2025-06-15": {
+        "yield": 99.7,
+        "productivity": 5874
+      },
+      "2025-06-16": {
+        "yield": 99.55,
+        "productivity": 5615
+      },
+      "2025-06-17": {
+        "yield": 99.75,
+        "productivity": 5771
+      },
+      "2025-06-18": {
+        "yield": 99.74,
+        "productivity": 6040
+      },
+      "2025-06-19": {
+        "yield": 99.42,
+        "productivity": 5920
+      },
+      "2025-06-20": {
+        "yield": 99.67,
+        "productivity": 5864
+      },
+      "2025-06-21": {
+        "yield": 99.69,
+        "productivity": 6111
+      },
+      "2025-06-22": {
+        "yield": 99.51,
+        "productivity": 6294
+      },
+      "2025-06-23": {
+        "yield": 99.51,
+        "productivity": 5594
+      },
+      "2025-06-24": {
+        "yield": 99.42,
+        "productivity": 6288
+      },
+      "2025-06-25": {
+        "yield": 99.74,
+        "productivity": 5942
+      },
+      "2025-06-26": {
+        "yield": 99.6,
+        "productivity": 5834
+      },
+      "2025-06-27": {
+        "yield": 99.49,
+        "productivity": 5979
+      },
+      "2025-06-28": {
+        "yield": 99.54,
+        "productivity": 5819
+      },
+      "2025-06-29": {
+        "yield": 99.56,
+        "productivity": 6303
+      },
+      "2025-06-30": {
+        "yield": 99.57,
+        "productivity": 5696
+      },
+      "2025-07-01": {
+        "yield": 99.61,
+        "productivity": 6428
+      },
+      "2025-07-02": {
+        "yield": 99.79,
+        "productivity": 5997
+      },
+      "2025-07-03": {
+        "yield": 99.78,
+        "productivity": 5708
+      },
+      "2025-07-04": {
+        "yield": 99.43,
+        "productivity": 6355
+      },
+      "2025-07-05": {
+        "yield": 99.45,
+        "productivity": 6034
+      },
+      "2025-07-06": {
+        "yield": 99.7,
+        "productivity": 5794
+      },
+      "2025-07-07": {
+        "yield": 99.64,
+        "productivity": 6055
+      },
+      "2025-07-08": {
+        "yield": 99.47,
+        "productivity": 5978
+      },
+      "2025-07-09": {
+        "yield": 99.44,
+        "productivity": 6427
+      },
+      "2025-07-10": {
+        "yield": 99.56,
+        "productivity": 6371
+      },
+      "2025-07-11": {
+        "yield": 99.67,
+        "productivity": 6084
+      },
+      "2025-07-12": {
+        "yield": 99.53,
+        "productivity": 6045
+      },
+      "2025-07-13": {
+        "yield": 99.46,
+        "productivity": 5524
+      },
+      "2025-07-14": {
+        "yield": 99.42,
+        "productivity": 6150
+      },
+      "2025-07-15": {
+        "yield": 99.71,
+        "productivity": 6415
+      },
+      "2025-07-16": {
+        "yield": 99.5,
+        "productivity": 6416
+      },
+      "2025-07-17": {
+        "yield": 99.66,
+        "productivity": 6403
+      },
+      "2025-07-18": {
+        "yield": 99.74,
+        "productivity": 5794
+      },
+      "2025-07-19": {
+        "yield": 99.47,
+        "productivity": 6468
+      },
+      "2025-07-20": {
+        "yield": 99.62,
+        "productivity": 6190
+      },
+      "2025-07-21": {
+        "yield": 99.47,
+        "productivity": 5945
+      },
+      "2025-07-22": {
+        "yield": 99.72,
+        "productivity": 5500
+      },
+      "2025-07-23": {
+        "yield": 99.44,
+        "productivity": 6266
+      },
+      "2025-07-24": {
+        "yield": 99.52,
+        "productivity": 6336
+      },
+      "2025-07-25": {
+        "yield": 99.55,
+        "productivity": 5886
+      },
+      "2025-07-26": {
+        "yield": 99.43,
+        "productivity": 6332
+      },
+      "2025-07-27": {
+        "yield": 99.48,
+        "productivity": 6266
+      },
+      "2025-07-28": {
+        "yield": 99.6,
+        "productivity": 5758
+      },
+      "2025-07-29": {
+        "yield": 99.54,
+        "productivity": 6471
+      },
+      "2025-07-30": {
+        "yield": 99.4,
+        "productivity": 6047
+      },
+      "2025-07-31": {
+        "yield": 99.77,
+        "productivity": 6113
+      },
+      "2025-08-01": {
+        "yield": 99.52,
+        "productivity": 6223
+      },
+      "2025-08-02": {
+        "yield": 99.73,
+        "productivity": 6005
+      },
+      "2025-08-03": {
+        "yield": 99.48,
+        "productivity": 6194
+      },
+      "2025-08-04": {
+        "yield": 99.77,
+        "productivity": 5561
+      },
+      "2025-08-05": {
+        "yield": 99.47,
+        "productivity": 5923
+      },
+      "2025-08-06": {
+        "yield": 99.68,
+        "productivity": 6043
+      },
+      "2025-08-07": {
+        "yield": 99.59,
+        "productivity": 5906
+      },
+      "2025-08-08": {
+        "yield": 99.42,
+        "productivity": 6487
+      },
+      "2025-08-09": {
+        "yield": 99.64,
+        "productivity": 5821
+      },
+      "2025-08-10": {
+        "yield": 99.4,
+        "productivity": 5736
+      },
+      "2025-08-11": {
+        "yield": 99.43,
+        "productivity": 5893
+      },
+      "2025-08-12": {
+        "yield": 99.43,
+        "productivity": 6288
+      },
+      "2025-08-13": {
+        "yield": 99.69,
+        "productivity": 5887
+      },
+      "2025-08-14": {
+        "yield": 99.45,
+        "productivity": 5773
+      },
+      "2025-08-15": {
+        "yield": 99.64,
+        "productivity": 5814
+      },
+      "2025-08-16": {
+        "yield": 99.53,
+        "productivity": 5684
+      },
+      "2025-08-17": {
+        "yield": 99.53,
+        "productivity": 6188
+      },
+      "2025-08-18": {
+        "yield": 99.63,
+        "productivity": 6373
+      },
+      "2025-08-19": {
+        "yield": 99.51,
+        "productivity": 6391
+      },
+      "2025-08-20": {
+        "yield": 99.61,
+        "productivity": 5864
+      },
+      "2025-08-21": {
+        "yield": 99.42,
+        "productivity": 5926
+      },
+      "2025-08-22": {
+        "yield": 99.42,
+        "productivity": 5767
+      },
+      "2025-08-23": {
+        "yield": 99.48,
+        "productivity": 6066
+      },
+      "2025-08-24": {
+        "yield": 99.69,
+        "productivity": 5812
+      },
+      "2025-08-25": {
+        "yield": 99.77,
+        "productivity": 6314
+      },
+      "2025-08-26": {
+        "yield": 99.51,
+        "productivity": 5950
+      },
+      "2025-08-27": {
+        "yield": 99.74,
+        "productivity": 6464
+      },
+      "2025-08-28": {
+        "yield": 99.7,
+        "productivity": 5810
+      },
+      "2025-08-29": {
+        "yield": 99.47,
+        "productivity": 5716
+      },
+      "2025-08-30": {
+        "yield": 99.61,
+        "productivity": 6072
+      },
+      "2025-08-31": {
+        "yield": 99.79,
+        "productivity": 6408
+      },
+      "2025-09-01": {
+        "yield": 99.79,
+        "productivity": 5854
+      },
+      "2025-09-02": {
+        "yield": 99.73,
+        "productivity": 5688
+      },
+      "2025-09-03": {
+        "yield": 99.64,
+        "productivity": 5639
+      },
+      "2025-09-04": {
+        "yield": 99.43,
+        "productivity": 6410
+      },
+      "2025-09-05": {
+        "yield": 99.71,
+        "productivity": 5891
+      },
+      "2025-09-06": {
+        "yield": 99.42,
+        "productivity": 5532
+      },
+      "2025-09-07": {
+        "yield": 99.7,
+        "productivity": 6103
+      },
+      "2025-09-08": {
+        "yield": 99.79,
+        "productivity": 5870
+      },
+      "2025-09-09": {
+        "yield": 99.67,
+        "productivity": 6394
+      },
+      "2025-09-10": {
+        "yield": 99.75,
+        "productivity": 6033
+      },
+      "2025-09-11": {
+        "yield": 99.75,
+        "productivity": 5544
+      },
+      "2025-09-12": {
+        "yield": 99.77,
+        "productivity": 5702
+      },
+      "2025-09-13": {
+        "yield": 99.44,
+        "productivity": 6353
+      },
+      "2025-09-14": {
+        "yield": 99.57,
+        "productivity": 6112
+      },
+      "2025-09-15": {
+        "yield": 99.67,
+        "productivity": 5811
+      },
+      "2025-09-16": {
+        "yield": 99.56,
+        "productivity": 6201
+      },
+      "2025-09-17": {
+        "yield": 99.54,
+        "productivity": 5550
+      },
+      "2025-09-18": {
+        "yield": 99.73,
+        "productivity": 6380
+      },
+      "2025-09-19": {
+        "yield": 99.47,
+        "productivity": 5871
+      },
+      "2025-09-20": {
+        "yield": 99.4,
+        "productivity": 5642
+      },
+      "2025-09-21": {
+        "yield": 99.59,
+        "productivity": 5967
+      },
+      "2025-09-22": {
+        "yield": 99.77,
+        "productivity": 5816
+      },
+      "2025-09-23": {
+        "yield": 99.74,
+        "productivity": 5663
+      },
+      "2025-09-24": {
+        "yield": 99.66,
+        "productivity": 5945
+      },
+      "2025-09-25": {
+        "yield": 99.42,
+        "productivity": 5583
+      },
+      "2025-09-26": {
+        "yield": 99.76,
+        "productivity": 6373
+      },
+      "2025-09-27": {
+        "yield": 99.78,
+        "productivity": 6398
+      },
+      "2025-09-28": {
+        "yield": 99.55,
+        "productivity": 5609
+      },
+      "2025-09-29": {
+        "yield": 99.42,
+        "productivity": 5789
+      },
+      "2025-09-30": {
+        "yield": 99.45,
+        "productivity": 6465
+      },
+      "2025-10-01": {
+        "yield": 99.51,
+        "productivity": 6190
+      },
+      "2025-10-02": {
+        "yield": 99.79,
+        "productivity": 5961
+      },
+      "2025-10-03": {
+        "yield": 99.56,
+        "productivity": 5604
+      },
+      "2025-10-04": {
+        "yield": 99.73,
+        "productivity": 5811
+      },
+      "2025-10-05": {
+        "yield": 99.66,
+        "productivity": 5824
+      },
+      "2025-10-06": {
+        "yield": 99.67,
+        "productivity": 6121
+      },
+      "2025-10-07": {
+        "yield": 99.57,
+        "productivity": 6007
+      },
+      "2025-10-08": {
+        "yield": 99.78,
+        "productivity": 5950
+      },
+      "2025-10-09": {
+        "yield": 99.56,
+        "productivity": 5926
+      },
+      "2025-10-10": {
+        "yield": 99.78,
+        "productivity": 6310
+      },
+      "2025-10-11": {
+        "yield": 99.71,
+        "productivity": 6396
+      },
+      "2025-10-12": {
+        "yield": 99.79,
+        "productivity": 5829
+      },
+      "2025-10-13": {
+        "yield": 99.47,
+        "productivity": 6293
+      },
+      "2025-10-14": {
+        "yield": 99.61,
+        "productivity": 6343
+      },
+      "2025-10-15": {
+        "yield": 99.44,
+        "productivity": 6280
+      },
+      "2025-10-16": {
+        "yield": 99.47,
+        "productivity": 6118
+      },
+      "2025-10-17": {
+        "yield": 99.66,
+        "productivity": 6093
+      },
+      "2025-10-18": {
+        "yield": 99.58,
+        "productivity": 6299
+      },
+      "2025-10-19": {
+        "yield": 99.42,
+        "productivity": 5696
+      },
+      "2025-10-20": {
+        "yield": 99.62,
+        "productivity": 5598
+      },
+      "2025-10-21": {
+        "yield": 99.7,
+        "productivity": 5659
+      },
+      "2025-10-22": {
+        "yield": 99.77,
+        "productivity": 6224
+      },
+      "2025-10-23": {
+        "yield": 99.45,
+        "productivity": 6189
+      },
+      "2025-10-24": {
+        "yield": 99.55,
+        "productivity": 5717
+      },
+      "2025-10-25": {
+        "yield": 99.79,
+        "productivity": 5879
+      },
+      "2025-10-26": {
+        "yield": 99.75,
+        "productivity": 5532
+      },
+      "2025-10-27": {
+        "yield": 99.52,
+        "productivity": 6255
+      },
+      "2025-10-28": {
+        "yield": 99.65,
+        "productivity": 5618
+      },
+      "2025-10-29": {
+        "yield": 99.59,
+        "productivity": 6113
+      },
+      "2025-10-30": {
+        "yield": 99.63,
+        "productivity": 6215
+      },
+      "2025-10-31": {
+        "yield": 99.77,
+        "productivity": 6366
+      },
+      "2025-11-01": {
+        "yield": 99.41,
+        "productivity": 6008
+      },
+      "2025-11-02": {
+        "yield": 99.64,
+        "productivity": 5661
+      },
+      "2025-11-03": {
+        "yield": 99.77,
+        "productivity": 6342
+      },
+      "2025-11-04": {
+        "yield": 99.59,
+        "productivity": 5697
+      },
+      "2025-11-05": {
+        "yield": 99.52,
+        "productivity": 5673
+      },
+      "2025-11-06": {
+        "yield": 99.74,
+        "productivity": 6460
+      },
+      "2025-11-07": {
+        "yield": 99.63,
+        "productivity": 5790
+      },
+      "2025-11-08": {
+        "yield": 99.43,
+        "productivity": 5624
+      },
+      "2025-11-09": {
+        "yield": 99.6,
+        "productivity": 6459
+      },
+      "2025-11-10": {
+        "yield": 99.68,
+        "productivity": 6097
+      },
+      "2025-11-11": {
+        "yield": 99.74,
+        "productivity": 5646
+      },
+      "2025-11-12": {
+        "yield": 99.7,
+        "productivity": 6221
+      },
+      "2025-11-13": {
+        "yield": 99.46,
+        "productivity": 5780
+      },
+      "2025-11-14": {
+        "yield": 99.51,
+        "productivity": 6097
+      },
+      "2025-11-15": {
+        "yield": 99.71,
+        "productivity": 5669
+      },
+      "2025-11-16": {
+        "yield": 99.75,
+        "productivity": 6235
+      },
+      "2025-11-17": {
+        "yield": 99.5,
+        "productivity": 5615
+      },
+      "2025-11-18": {
+        "yield": 99.46,
+        "productivity": 6365
+      },
+      "2025-11-19": {
+        "yield": 99.46,
+        "productivity": 6220
+      },
+      "2025-11-20": {
+        "yield": 99.6,
+        "productivity": 6420
+      },
+      "2025-11-21": {
+        "yield": 99.7,
+        "productivity": 5588
+      },
+      "2025-11-22": {
+        "yield": 99.49,
+        "productivity": 5754
+      },
+      "2025-11-23": {
+        "yield": 99.71,
+        "productivity": 6020
+      },
+      "2025-11-24": {
+        "yield": 99.65,
+        "productivity": 5694
+      },
+      "2025-11-25": {
+        "yield": 99.41,
+        "productivity": 6173
+      },
+      "2025-11-26": {
+        "yield": 99.58,
+        "productivity": 5998
+      },
+      "2025-11-27": {
+        "yield": 99.66,
+        "productivity": 5658
+      },
+      "2025-11-28": {
+        "yield": 99.78,
+        "productivity": 6354
+      },
+      "2025-11-29": {
+        "yield": 99.54,
+        "productivity": 5691
+      },
+      "2025-11-30": {
+        "yield": 99.62,
+        "productivity": 6478
+      },
+      "2025-12-01": {
+        "yield": 99.74,
+        "productivity": 6470
+      },
+      "2025-12-02": {
+        "yield": 99.77,
+        "productivity": 5511
+      },
+      "2025-12-03": {
+        "yield": 99.47,
+        "productivity": 5559
+      },
+      "2025-12-04": {
+        "yield": 99.52,
+        "productivity": 5673
+      },
+      "2025-12-05": {
+        "yield": 99.5,
+        "productivity": 6190
+      },
+      "2025-12-06": {
+        "yield": 99.55,
+        "productivity": 5985
+      },
+      "2025-12-07": {
+        "yield": 99.4,
+        "productivity": 6188
+      },
+      "2025-12-08": {
+        "yield": 99.58,
+        "productivity": 6441
+      },
+      "2025-12-09": {
+        "yield": 99.72,
+        "productivity": 5730
+      },
+      "2025-12-10": {
+        "yield": 99.69,
+        "productivity": 6356
+      },
+      "2025-12-11": {
+        "yield": 99.71,
+        "productivity": 6297
+      },
+      "2025-12-12": {
+        "yield": 99.61,
+        "productivity": 5769
+      },
+      "2025-12-13": {
+        "yield": 99.61,
+        "productivity": 5538
+      },
+      "2025-12-14": {
+        "yield": 99.55,
+        "productivity": 6230
+      },
+      "2025-12-15": {
+        "yield": 99.62,
+        "productivity": 5890
+      },
+      "2025-12-16": {
+        "yield": 99.78,
+        "productivity": 5813
+      },
+      "2025-12-17": {
+        "yield": 99.48,
+        "productivity": 6355
+      },
+      "2025-12-18": {
+        "yield": 99.62,
+        "productivity": 5588
+      },
+      "2025-12-19": {
+        "yield": 99.53,
+        "productivity": 5616
+      },
+      "2025-12-20": {
+        "yield": 99.42,
+        "productivity": 6371
+      },
+      "2025-12-21": {
+        "yield": 99.43,
+        "productivity": 6359
+      },
+      "2025-12-22": {
+        "yield": 99.41,
+        "productivity": 6125
+      },
+      "2025-12-23": {
+        "yield": 99.76,
+        "productivity": 5902
+      },
+      "2025-12-24": {
+        "yield": 99.4,
+        "productivity": 6221
+      },
+      "2025-12-25": {
+        "yield": 99.53,
+        "productivity": 6367
+      },
+      "2025-12-26": {
+        "yield": 99.77,
+        "productivity": 5669
+      },
+      "2025-12-27": {
+        "yield": 99.46,
+        "productivity": 5662
+      },
+      "2025-12-28": {
+        "yield": 99.62,
+        "productivity": 5965
+      },
+      "2025-12-29": {
+        "yield": 99.48,
+        "productivity": 5542
+      },
+      "2025-12-30": {
+        "yield": 99.57,
+        "productivity": 5825
+      },
+      "2025-12-31": {
+        "yield": 99.45,
+        "productivity": 5948
+      },
+      "2026-01-01": {
+        "yield": 99.43,
+        "productivity": 6166
+      },
+      "2026-01-02": {
+        "yield": 99.62,
+        "productivity": 6437
+      },
+      "2026-01-03": {
+        "yield": 99.54,
+        "productivity": 5767
+      },
+      "2026-01-04": {
+        "yield": 99.53,
+        "productivity": 5626
+      },
+      "2026-01-05": {
+        "yield": 99.76,
+        "productivity": 6027
+      },
+      "2026-01-06": {
+        "yield": 99.6,
+        "productivity": 5655
+      },
+      "2026-01-07": {
+        "yield": 99.72,
+        "productivity": 5700
+      },
+      "2026-01-08": {
+        "yield": 99.44,
+        "productivity": 6037
+      },
+      "2026-01-09": {
+        "yield": 99.72,
+        "productivity": 5645
+      },
+      "2026-01-10": {
+        "yield": 99.62,
+        "productivity": 6126
+      },
+      "2026-01-11": {
+        "yield": 99.56,
+        "productivity": 5927
+      },
+      "2026-01-12": {
+        "yield": 99.64,
+        "productivity": 6408
+      },
+      "2026-01-13": {
+        "yield": 99.6,
+        "productivity": 5701
+      },
+      "2026-01-14": {
+        "yield": 99.41,
+        "productivity": 5507
+      },
+      "2026-01-15": {
+        "yield": 99.47,
+        "productivity": 5807
+      },
+      "2026-01-16": {
+        "yield": 99.67,
+        "productivity": 5764
+      },
+      "2026-01-17": {
+        "yield": 99.69,
+        "productivity": 5753
+      },
+      "2026-01-18": {
+        "yield": 99.68,
+        "productivity": 5556
+      },
+      "2026-01-19": {
+        "yield": 99.45,
+        "productivity": 5867
+      },
+      "2026-01-20": {
+        "yield": 99.59,
+        "productivity": 5786
+      },
+      "2026-01-21": {
+        "yield": 99.46,
+        "productivity": 5785
+      },
+      "2026-01-22": {
+        "yield": 99.7,
+        "productivity": 6037
+      },
+      "2026-01-23": {
+        "yield": 99.74,
+        "productivity": 5595
+      },
+      "2026-01-24": {
+        "yield": 99.49,
+        "productivity": 6312
+      },
+      "2026-01-25": {
+        "yield": 99.6,
+        "productivity": 6293
+      },
+      "2026-01-26": {
+        "yield": 99.75,
+        "productivity": 5828
+      },
+      "2026-01-27": {
+        "yield": 99.61,
+        "productivity": 6488
+      },
+      "2026-01-28": {
+        "yield": 99.68,
+        "productivity": 5826
+      },
+      "2026-01-29": {
+        "yield": 99.42,
+        "productivity": 5806
+      },
+      "2026-01-30": {
+        "yield": 99.71,
+        "productivity": 5533
+      },
+      "2026-01-31": {
+        "yield": 99.45,
+        "productivity": 6381
+      },
+      "2026-02-01": {
+        "yield": 99.73,
+        "productivity": 5722
+      },
+      "2026-02-02": {
+        "yield": 99.8,
+        "productivity": 5711
+      },
+      "2026-02-03": {
+        "yield": 99.48,
+        "productivity": 5557
+      },
+      "2026-02-04": {
+        "yield": 99.78,
+        "productivity": 6336
+      },
+      "2026-02-05": {
+        "yield": 99.41,
+        "productivity": 5617
+      },
+      "2026-02-06": {
+        "yield": 99.61,
+        "productivity": 6227
+      },
+      "2026-02-07": {
+        "yield": 99.8,
+        "productivity": 6274
+      },
+      "2026-02-08": {
+        "yield": 99.63,
+        "productivity": 6352
+      },
+      "2026-02-09": {
+        "yield": 99.44,
+        "productivity": 6483
+      },
+      "2026-02-10": {
+        "yield": 99.59,
+        "productivity": 5710
+      },
+      "2026-02-11": {
+        "yield": 99.46,
+        "productivity": 6286
+      },
+      "2026-02-12": {
+        "yield": 99.79,
+        "productivity": 5823
+      },
+      "2026-02-13": {
+        "yield": 99.48,
+        "productivity": 5721
+      },
+      "2026-02-14": {
+        "yield": 99.54,
+        "productivity": 6385
+      },
+      "2026-02-15": {
+        "yield": 99.54,
+        "productivity": 5952
+      },
+      "2026-02-16": {
+        "yield": 99.48,
+        "productivity": 5883
+      },
+      "2026-02-17": {
+        "yield": 99.78,
+        "productivity": 5869
+      },
+      "2026-02-18": {
+        "yield": 99.61,
+        "productivity": 5557
+      },
+      "2026-02-19": {
+        "yield": 99.4,
+        "productivity": 5676
+      },
+      "2026-02-20": {
+        "yield": 99.44,
+        "productivity": 5533
+      },
+      "2026-02-21": {
+        "yield": 99.61,
+        "productivity": 6075
+      },
+      "2026-02-22": {
+        "yield": 99.75,
+        "productivity": 5853
+      },
+      "2026-02-23": {
+        "yield": 99.42,
+        "productivity": 6315
+      },
+      "2026-02-24": {
+        "yield": 99.48,
+        "productivity": 6367
+      },
+      "2026-02-25": {
+        "yield": 99.61,
+        "productivity": 6395
+      },
+      "2026-02-26": {
+        "yield": 99.52,
+        "productivity": 6454
+      },
+      "2026-02-27": {
+        "yield": 99.58,
+        "productivity": 6151
+      },
+      "2026-02-28": {
+        "yield": 99.7,
+        "productivity": 5976
+      },
+      "2026-03-01": {
+        "yield": 99.53,
+        "productivity": 6211
+      },
+      "2026-03-02": {
+        "yield": 99.68,
+        "productivity": 5524
+      },
+      "2026-03-03": {
+        "yield": 99.7,
+        "productivity": 5699
+      },
+      "2026-03-04": {
+        "yield": 99.49,
+        "productivity": 5858
+      },
+      "2026-03-05": {
+        "yield": 99.44,
+        "productivity": 6029
+      },
+      "2026-03-06": {
+        "yield": 99.66,
+        "productivity": 6158
+      },
+      "2026-03-07": {
+        "yield": 99.43,
+        "productivity": 6121
+      },
+      "2026-03-08": {
+        "yield": 99.45,
+        "productivity": 6207
+      },
+      "2026-03-09": {
+        "yield": 99.72,
+        "productivity": 6306
+      },
+      "2026-03-10": {
+        "yield": 99.42,
+        "productivity": 5602
+      },
+      "2026-03-11": {
+        "yield": 99.61,
+        "productivity": 6420
+      },
+      "2026-03-12": {
+        "yield": 99.59,
+        "productivity": 6450
+      },
+      "2026-03-13": {
+        "yield": 99.48,
+        "productivity": 6346
+      },
+      "2026-03-14": {
+        "yield": 99.79,
+        "productivity": 5631
+      },
+      "2026-03-15": {
+        "yield": 99.78,
+        "productivity": 5952
+      },
+      "2026-03-16": {
+        "yield": 99.74,
+        "productivity": 5505
+      },
+      "2026-03-17": {
+        "yield": 99.76,
+        "productivity": 5734
+      },
+      "2026-03-18": {
+        "yield": 99.49,
+        "productivity": 5788
+      },
+      "2026-03-19": {
+        "yield": 99.55,
+        "productivity": 6094
+      },
+      "2026-03-20": {
+        "yield": 99.66,
+        "productivity": 5626
+      },
+      "2026-03-21": {
+        "yield": 99.58,
+        "productivity": 5580
+      },
+      "2026-03-22": {
+        "yield": 99.59,
+        "productivity": 5751
+      },
+      "2026-03-23": {
+        "yield": 99.78,
+        "productivity": 6266
+      },
+      "2026-03-24": {
+        "yield": 99.5,
+        "productivity": 6019
+      },
+      "2026-03-25": {
+        "yield": 99.67,
+        "productivity": 5626
+      },
+      "2026-03-26": {
+        "yield": 99.6,
+        "productivity": 6270
+      },
+      "2026-03-27": {
+        "yield": 99.54,
+        "productivity": 6013
+      },
+      "2026-03-28": {
+        "yield": 99.63,
+        "productivity": 5741
+      },
+      "2026-03-29": {
+        "yield": 99.42,
+        "productivity": 5759
+      },
+      "2026-03-30": {
+        "yield": 99.79,
+        "productivity": 6307
+      },
+      "2026-03-31": {
+        "yield": 99.41,
+        "productivity": 6405
+      },
+      "2026-04-01": {
+        "yield": 99.52,
+        "productivity": 5615
+      },
+      "2026-04-02": {
+        "yield": 99.49,
+        "productivity": 6331
+      },
+      "2026-04-03": {
+        "yield": 99.57,
+        "productivity": 6255
+      },
+      "2026-04-04": {
+        "yield": 99.7,
+        "productivity": 5750
+      },
+      "2026-04-05": {
+        "yield": 99.55,
+        "productivity": 6441
+      },
+      "2026-04-06": {
+        "yield": 99.69,
+        "productivity": 6111
+      },
+      "2026-04-07": {
+        "yield": 99.5,
+        "productivity": 5930
+      },
+      "2026-04-08": {
+        "yield": 99.63,
+        "productivity": 6233
+      },
+      "2026-04-09": {
+        "yield": 99.73,
+        "productivity": 5531
+      },
+      "2026-04-10": {
+        "yield": 99.63,
+        "productivity": 5863
+      },
+      "2026-04-11": {
+        "yield": 99.57,
+        "productivity": 5711
+      },
+      "2026-04-12": {
+        "yield": 99.57,
+        "productivity": 6172
+      },
+      "2026-04-13": {
+        "yield": 99.43,
+        "productivity": 5635
+      },
+      "2026-04-14": {
+        "yield": 99.69,
+        "productivity": 5897
+      },
+      "2026-04-15": {
+        "yield": 99.72,
+        "productivity": 5798
+      },
+      "2026-04-16": {
+        "yield": 99.7,
+        "productivity": 5985
+      },
+      "2026-04-17": {
+        "yield": 99.47,
+        "productivity": 6227
+      },
+      "2026-04-18": {
+        "yield": 99.42,
+        "productivity": 6237
+      },
+      "2026-04-19": {
+        "yield": 99.45,
+        "productivity": 5620
+      },
+      "2026-04-20": {
+        "yield": 99.6,
+        "productivity": 6074
+      },
+      "2026-04-21": {
+        "yield": 99.49,
+        "productivity": 6143
+      },
+      "2026-04-22": {
+        "yield": 99.68,
+        "productivity": 5744
+      },
+      "2026-04-23": {
+        "yield": 99.6,
+        "productivity": 6104
+      },
+      "2026-04-24": {
+        "yield": 99.48,
+        "productivity": 5738
+      },
+      "2026-04-25": {
+        "yield": 99.6,
+        "productivity": 5826
+      },
+      "2026-04-26": {
+        "yield": 99.41,
+        "productivity": 6305
+      },
+      "2026-04-27": {
+        "yield": 99.63,
+        "productivity": 6124
+      },
+      "2026-04-28": {
+        "yield": 99.64,
+        "productivity": 6232
+      },
+      "2026-04-29": {
+        "yield": 99.68,
+        "productivity": 5665
+      },
+      "2026-04-30": {
+        "yield": 99.64,
+        "productivity": 5945
+      },
+      "2026-05-01": {
+        "yield": 99.52,
+        "productivity": 6070
+      },
+      "2026-05-02": {
+        "yield": 99.49,
+        "productivity": 6055
+      },
+      "2026-05-03": {
+        "yield": 99.74,
+        "productivity": 5532
+      },
+      "2026-05-04": {
+        "yield": 99.53,
+        "productivity": 5899
+      },
+      "2026-05-05": {
+        "yield": 99.79,
+        "productivity": 6059
+      },
+      "2026-05-06": {
+        "yield": 99.69,
+        "productivity": 5585
+      },
+      "2026-05-07": {
+        "yield": 99.5,
+        "productivity": 6217
+      },
+      "2026-05-08": {
+        "yield": 99.49,
+        "productivity": 5537
+      },
+      "2026-05-09": {
+        "yield": 99.51,
+        "productivity": 6226
+      },
+      "2026-05-10": {
+        "yield": 99.5,
+        "productivity": 6071
+      },
+      "2026-05-11": {
+        "yield": 99.58,
+        "productivity": 6208
+      },
+      "2026-05-12": {
+        "yield": 99.74,
+        "productivity": 6161
+      },
+      "2026-05-13": {
+        "yield": 99.59,
+        "productivity": 5795
+      },
+      "2026-05-14": {
+        "yield": 99.61,
+        "productivity": 5596
+      },
+      "2026-05-15": {
+        "yield": 99.44,
+        "productivity": 6159
+      },
+      "2026-05-16": {
+        "yield": 99.66,
+        "productivity": 5573
+      },
+      "2026-05-17": {
+        "yield": 99.66,
+        "productivity": 6025
+      },
+      "2026-05-18": {
+        "yield": 99.67,
+        "productivity": 5935
+      },
+      "2026-05-19": {
+        "yield": 99.55,
+        "productivity": 6300
+      },
+      "2026-05-20": {
+        "yield": 99.78,
+        "productivity": 6167
+      },
+      "2026-05-21": {
+        "yield": 99.53,
+        "productivity": 6133
+      },
+      "2026-05-22": {
+        "yield": 99.45,
+        "productivity": 5658
+      },
+      "2026-05-23": {
+        "yield": 99.52,
+        "productivity": 5683
+      },
+      "2026-05-24": {
+        "yield": 99.64,
+        "productivity": 6487
+      },
+      "2026-05-25": {
+        "yield": 99.65,
+        "productivity": 5549
+      },
+      "2026-05-26": {
+        "yield": 99.6,
+        "productivity": 6122
+      },
+      "2026-05-27": {
+        "yield": 99.63,
+        "productivity": 5555
+      },
+      "2026-05-28": {
+        "yield": 99.8,
+        "productivity": 5511
+      },
+      "2026-05-29": {
+        "yield": 99.8,
+        "productivity": 6275
+      },
+      "2026-05-30": {
+        "yield": 99.63,
+        "productivity": 5989
+      },
+      "2026-05-31": {
+        "yield": 99.43,
+        "productivity": 6381
+      },
+      "2026-06-01": {
+        "yield": 99.45,
+        "productivity": 5860
+      },
+      "2026-06-02": {
+        "yield": 99.65,
+        "productivity": 5523
+      },
+      "2026-06-03": {
+        "yield": 99.74,
+        "productivity": 6301
+      },
+      "2026-06-04": {
+        "yield": 99.47,
+        "productivity": 5982
+      },
+      "2026-06-05": {
+        "yield": 99.58,
+        "productivity": 6316
+      },
+      "2026-06-06": {
+        "yield": 99.48,
+        "productivity": 5901
+      },
+      "2026-06-07": {
+        "yield": 99.57,
+        "productivity": 5540
+      },
+      "2026-06-08": {
+        "yield": 99.47,
+        "productivity": 6298
+      },
+      "2026-06-09": {
+        "yield": 99.58,
+        "productivity": 5741
+      },
+      "2026-06-10": {
+        "yield": 99.64,
+        "productivity": 6092
+      },
+      "2026-06-11": {
+        "yield": 99.71,
+        "productivity": 5862
+      },
+      "2026-06-12": {
+        "yield": 99.7,
+        "productivity": 6270
+      },
+      "2026-06-13": {
+        "yield": 99.63,
+        "productivity": 6337
+      },
+      "2026-06-14": {
+        "yield": 99.53,
+        "productivity": 6465
+      },
+      "2026-06-15": {
+        "yield": 99.55,
+        "productivity": 6443
+      },
+      "2026-06-16": {
+        "yield": 99.45,
+        "productivity": 6147
+      },
+      "2026-06-17": {
+        "yield": 99.5,
+        "productivity": 5548
+      },
+      "2026-06-18": {
+        "yield": 99.79,
+        "productivity": 6006
+      },
+      "2026-06-19": {
+        "yield": 99.58,
+        "productivity": 6491
+      },
+      "2026-06-20": {
+        "yield": 99.58,
+        "productivity": 6432
+      },
+      "2026-06-21": {
+        "yield": 99.64,
+        "productivity": 5522
+      },
+      "2026-06-22": {
+        "yield": 99.7,
+        "productivity": 6318
+      },
+      "2026-06-23": {
+        "yield": 99.8,
+        "productivity": 5814
+      },
+      "2026-06-24": {
+        "yield": 99.45,
+        "productivity": 5903
+      },
+      "2026-06-25": {
+        "yield": 99.62,
+        "productivity": 5504
+      },
+      "2026-06-26": {
+        "yield": 99.65,
+        "productivity": 6248
+      },
+      "2026-06-27": {
+        "yield": 99.69,
+        "productivity": 5678
+      },
+      "2026-06-28": {
+        "yield": 99.51,
+        "productivity": 6207
+      },
+      "2026-06-29": {
+        "yield": 99.45,
+        "productivity": 5906
+      },
+      "2026-06-30": {
+        "yield": 99.67,
+        "productivity": 6040
+      },
+      "2026-07-01": {
+        "yield": 99.53,
+        "productivity": 6388
+      },
+      "2026-07-02": {
+        "yield": 99.74,
+        "productivity": 6416
+      },
+      "2026-07-03": {
+        "yield": 99.55,
+        "productivity": 6160
+      },
+      "2026-07-04": {
+        "yield": 99.51,
+        "productivity": 5647
+      },
+      "2026-07-05": {
+        "yield": 99.6,
+        "productivity": 5874
+      },
+      "2026-07-06": {
+        "yield": 99.48,
+        "productivity": 5802
+      },
+      "2026-07-07": {
+        "yield": 99.51,
+        "productivity": 5657
+      },
+      "2026-07-08": {
+        "yield": 99.71,
+        "productivity": 5911
+      },
+      "2026-07-09": {
+        "yield": 99.75,
+        "productivity": 5973
+      },
+      "2026-07-10": {
+        "yield": 99.79,
+        "productivity": 6191
+      },
+      "2026-07-11": {
+        "yield": 99.56,
+        "productivity": 6283
+      },
+      "2026-07-12": {
+        "yield": 99.54,
+        "productivity": 5578
+      },
+      "2026-07-13": {
+        "yield": 99.79,
+        "productivity": 6085
+      },
+      "2026-07-14": {
+        "yield": 99.72,
+        "productivity": 6130
+      },
+      "2026-07-15": {
+        "yield": 99.51,
+        "productivity": 5538
+      },
+      "2026-07-16": {
+        "yield": 99.8,
+        "productivity": 6194
+      },
+      "2026-07-17": {
+        "yield": 99.55,
+        "productivity": 5583
+      },
+      "2026-07-18": {
+        "yield": 99.51,
+        "productivity": 6198
+      },
+      "2026-07-19": {
+        "yield": 99.63,
+        "productivity": 5685
+      },
+      "2026-07-20": {
+        "yield": 99.64,
+        "productivity": 5633
+      },
+      "2026-07-21": {
+        "yield": 99.61,
+        "productivity": 5636
+      },
+      "2026-07-22": {
+        "yield": 99.57,
+        "productivity": 5779
+      },
+      "2026-07-23": {
+        "yield": 99.79,
+        "productivity": 6470
+      },
+      "2026-07-24": {
+        "yield": 99.56,
+        "productivity": 6354
+      },
+      "2026-07-25": {
+        "yield": 99.5,
+        "productivity": 5573
+      },
+      "2026-07-26": {
+        "yield": 99.66,
+        "productivity": 6006
+      },
+      "2026-07-27": {
+        "yield": 99.66,
+        "productivity": 5637
+      },
+      "2026-07-28": {
+        "yield": 99.52,
+        "productivity": 6435
+      },
+      "2026-07-29": {
+        "yield": 99.52,
+        "productivity": 5883
+      },
+      "2026-07-30": {
+        "yield": 99.64,
+        "productivity": 6114
+      },
+      "2026-07-31": {
+        "yield": 99.71,
+        "productivity": 5874
+      },
+      "2026-08-01": {
+        "yield": 99.46,
+        "productivity": 5508
+      },
+      "2026-08-02": {
+        "yield": 99.79,
+        "productivity": 5612
+      },
+      "2026-08-03": {
+        "yield": 99.54,
+        "productivity": 5642
+      },
+      "2026-08-04": {
+        "yield": 99.42,
+        "productivity": 5981
+      },
+      "2026-08-05": {
+        "yield": 99.71,
+        "productivity": 6156
+      },
+      "2026-08-06": {
+        "yield": 99.42,
+        "productivity": 6221
+      },
+      "2026-08-07": {
+        "yield": 99.57,
+        "productivity": 5583
+      },
+      "2026-08-08": {
+        "yield": 99.72,
+        "productivity": 6496
+      }
+    },
+    "assy": {
+      "2026-08-09": {
+        "yield": 99,
+        "productivity": 6698
+      },
+      "2026-08-10": {
+        "yield": 98.96,
+        "productivity": 6765
+      },
+      "2026-08-11": {
+        "yield": 97.96,
+        "productivity": 6398
+      },
+      "2026-08-12": {
+        "yield": 98.4,
+        "productivity": 6824
+      },
+      "2026-08-13": {
+        "yield": 98.77,
+        "productivity": 6308
+      },
+      "2026-08-14": {
+        "yield": 97.38,
+        "productivity": 6874
+      },
+      "2026-08-15": {
+        "yield": 98.99,
+        "productivity": 6215
+      },
+      "2026-07-19": {
+        "yield": 98,
+        "productivity": 6642
+      },
+      "2026-07-20": {
+        "yield": 97.4,
+        "productivity": 6715
+      },
+      "2026-07-21": {
+        "yield": 98.76,
+        "productivity": 6466
+      },
+      "2026-07-22": {
+        "yield": 98.41,
+        "productivity": 6779
+      },
+      "2026-07-23": {
+        "yield": 97.95,
+        "productivity": 6378
+      },
+      "2026-07-24": {
+        "yield": 98.96,
+        "productivity": 6836
+      },
+      "2026-07-25": {
+        "yield": 97.19,
+        "productivity": 6697
+      },
+      "2026-07-26": {
+        "yield": 98.85,
+        "productivity": 6885
+      },
+      "2026-07-27": {
+        "yield": 98.26,
+        "productivity": 6625
+      },
+      "2026-07-28": {
+        "yield": 98.13,
+        "productivity": 6925
+      },
+      "2026-07-29": {
+        "yield": 98.91,
+        "productivity": 6547
+      },
+      "2026-07-30": {
+        "yield": 98.62,
+        "productivity": 6462
+      },
+      "2026-07-31": {
+        "yield": 97.66,
+        "productivity": 6981
+      },
+      "2026-08-01": {
+        "yield": 97.47,
+        "productivity": 6763
+      },
+      "2026-08-02": {
+        "yield": 99,
+        "productivity": 6780
+      },
+      "2026-08-03": {
+        "yield": 97.68,
+        "productivity": 6821
+      },
+      "2026-08-04": {
+        "yield": 98.6,
+        "productivity": 6716
+      },
+      "2026-08-05": {
+        "yield": 98.61,
+        "productivity": 6872
+      },
+      "2026-08-06": {
+        "yield": 97.68,
+        "productivity": 6645
+      },
+      "2026-08-07": {
+        "yield": 99,
+        "productivity": 6626
+      },
+      "2026-08-08": {
+        "yield": 97.48,
+        "productivity": 6569
+      },
+      "2024-08-16": {
+        "yield": 98.85,
+        "productivity": 6761
+      },
+      "2024-08-17": {
+        "yield": 97.21,
+        "productivity": 6781
+      },
+      "2024-08-18": {
+        "yield": 98.96,
+        "productivity": 6463
+      },
+      "2024-08-19": {
+        "yield": 97.93,
+        "productivity": 6717
+      },
+      "2024-08-20": {
+        "yield": 97.32,
+        "productivity": 6645
+      },
+      "2024-08-21": {
+        "yield": 98.8,
+        "productivity": 6626
+      },
+      "2024-08-22": {
+        "yield": 98.36,
+        "productivity": 6568
+      },
+      "2024-08-23": {
+        "yield": 98.02,
+        "productivity": 6698
+      },
+      "2024-08-24": {
+        "yield": 98.94,
+        "productivity": 6486
+      },
+      "2024-08-25": {
+        "yield": 97.1,
+        "productivity": 6764
+      },
+      "2024-08-26": {
+        "yield": 98.88,
+        "productivity": 6400
+      },
+      "2024-08-27": {
+        "yield": 98.19,
+        "productivity": 6822
+      },
+      "2024-08-28": {
+        "yield": 98.2,
+        "productivity": 6714
+      },
+      "2024-08-29": {
+        "yield": 98.88,
+        "productivity": 6873
+      },
+      "2024-08-30": {
+        "yield": 98.57,
+        "productivity": 6917
+      },
+      "2024-08-31": {
+        "yield": 97.74,
+        "productivity": 6565
+      },
+      "2024-09-01": {
+        "yield": 97.55,
+        "productivity": 6589
+      },
+      "2024-09-02": {
+        "yield": 99,
+        "productivity": 6680
+      },
+      "2024-09-03": {
+        "yield": 97.6,
+        "productivity": 6509
+      },
+      "2024-09-04": {
+        "yield": 98.65,
+        "productivity": 6747
+      },
+      "2024-09-05": {
+        "yield": 98.56,
+        "productivity": 6794
+      },
+      "2024-09-06": {
+        "yield": 97.75,
+        "productivity": 6807
+      },
+      "2024-09-07": {
+        "yield": 98.99,
+        "productivity": 6732
+      },
+      "2024-09-08": {
+        "yield": 97.4,
+        "productivity": 6860
+      },
+      "2024-09-09": {
+        "yield": 98.76,
+        "productivity": 6663
+      },
+      "2024-09-10": {
+        "yield": 98.97,
+        "productivity": 6586
+      },
+      "2024-09-11": {
+        "yield": 97.89,
+        "productivity": 6943
+      },
+      "2024-09-12": {
+        "yield": 98.46,
+        "productivity": 6505
+      },
+      "2024-09-13": {
+        "yield": 98.73,
+        "productivity": 6750
+      },
+      "2024-09-14": {
+        "yield": 97.46,
+        "productivity": 6420
+      },
+      "2024-09-15": {
+        "yield": 99,
+        "productivity": 6810
+      },
+      "2024-09-16": {
+        "yield": 97.69,
+        "productivity": 6331
+      },
+      "2024-09-17": {
+        "yield": 98.6,
+        "productivity": 6863
+      },
+      "2024-09-18": {
+        "yield": 98.62,
+        "productivity": 6238
+      },
+      "2024-09-19": {
+        "yield": 97.66,
+        "productivity": 6907
+      },
+      "2024-09-20": {
+        "yield": 98.23,
+        "productivity": 6944
+      },
+      "2024-09-21": {
+        "yield": 98.87,
+        "productivity": 6045
+      },
+      "2024-09-22": {
+        "yield": 97.15,
+        "productivity": 6971
+      },
+      "2024-09-23": {
+        "yield": 98.95,
+        "productivity": 6416
+      },
+      "2024-09-24": {
+        "yield": 97.98,
+        "productivity": 6990
+      },
+      "2024-09-25": {
+        "yield": 98.39,
+        "productivity": 6326
+      },
+      "2024-09-26": {
+        "yield": 98.78,
+        "productivity": 6999
+      },
+      "2024-09-27": {
+        "yield": 97.36,
+        "productivity": 6234
+      },
+      "2024-09-28": {
+        "yield": 98.99,
+        "productivity": 6998
+      },
+      "2024-09-29": {
+        "yield": 97.78,
+        "productivity": 6139
+      },
+      "2024-09-30": {
+        "yield": 97.16,
+        "productivity": 6040
+      },
+      "2024-10-01": {
+        "yield": 97.34,
+        "productivity": 6845
+      },
+      "2024-10-02": {
+        "yield": 98.99,
+        "productivity": 6752
+      },
+      "2024-10-03": {
+        "yield": 97.8,
+        "productivity": 6790
+      },
+      "2024-10-04": {
+        "yield": 98.52,
+        "productivity": 6812
+      },
+      "2024-10-05": {
+        "yield": 98.68,
+        "productivity": 6727
+      },
+      "2024-10-06": {
+        "yield": 97.55,
+        "productivity": 6534
+      },
+      "2024-10-07": {
+        "yield": 99,
+        "productivity": 6658
+      },
+      "2024-10-08": {
+        "yield": 97.6,
+        "productivity": 6613
+      },
+      "2024-10-09": {
+        "yield": 98.65,
+        "productivity": 6582
+      },
+      "2024-10-10": {
+        "yield": 98.92,
+        "productivity": 6499
+      },
+      "2024-10-11": {
+        "yield": 98.08,
+        "productivity": 6755
+      },
+      "2024-10-12": {
+        "yield": 98.3,
+        "productivity": 6413
+      },
+      "2024-10-13": {
+        "yield": 98.83,
+        "productivity": 6814
+      },
+      "2024-10-14": {
+        "yield": 97.25,
+        "productivity": 6724
+      },
+      "2024-10-15": {
+        "yield": 98.97,
+        "productivity": 6866
+      },
+      "2024-10-16": {
+        "yield": 97.89,
+        "productivity": 6654
+      },
+      "2024-10-17": {
+        "yield": 98.46,
+        "productivity": 6910
+      },
+      "2024-10-18": {
+        "yield": 98.73,
+        "productivity": 6579
+      },
+      "2024-10-19": {
+        "yield": 97.46,
+        "productivity": 6946
+      },
+      "2024-10-20": {
+        "yield": 98.05,
+        "productivity": 6973
+      },
+      "2024-10-21": {
+        "yield": 98.93,
+        "productivity": 6409
+      },
+      "2024-10-22": {
+        "yield": 97.06,
+        "productivity": 6991
+      },
+      "2024-10-23": {
+        "yield": 98.9,
+        "productivity": 6320
+      },
+      "2024-10-24": {
+        "yield": 98.16,
+        "productivity": 6868
+      },
+      "2024-10-25": {
+        "yield": 98.23,
+        "productivity": 6227
+      },
+      "2024-10-26": {
+        "yield": 98.87,
+        "productivity": 6912
+      },
+      "2024-10-27": {
+        "yield": 97.15,
+        "productivity": 6132
+      },
+      "2024-10-28": {
+        "yield": 98.95,
+        "productivity": 6947
+      },
+      "2024-10-29": {
+        "yield": 97.98,
+        "productivity": 6036
+      },
+      "2024-10-30": {
+        "yield": 97.37,
+        "productivity": 6062
+      },
+      "2024-10-31": {
+        "yield": 98.77,
+        "productivity": 6991
+      },
+      "2024-11-01": {
+        "yield": 98.67,
+        "productivity": 6802
+      },
+      "2024-11-02": {
+        "yield": 98.53,
+        "productivity": 6344
+      },
+      "2024-11-03": {
+        "yield": 97.79,
+        "productivity": 6855
+      },
+      "2024-11-04": {
+        "yield": 98.99,
+        "productivity": 6252
+      },
+      "2024-11-05": {
+        "yield": 97.36,
+        "productivity": 6901
+      },
+      "2024-11-06": {
+        "yield": 98.78,
+        "productivity": 6596
+      },
+      "2024-11-07": {
+        "yield": 98.38,
+        "productivity": 6939
+      },
+      "2024-11-08": {
+        "yield": 97.98,
+        "productivity": 6516
+      },
+      "2024-11-09": {
+        "yield": 98.95,
+        "productivity": 6967
+      },
+      "2024-11-10": {
+        "yield": 98.71,
+        "productivity": 6987
+      },
+      "2024-11-11": {
+        "yield": 97.5,
+        "productivity": 6340
+      },
+      "2024-11-12": {
+        "yield": 99,
+        "productivity": 6998
+      },
+      "2024-11-13": {
+        "yield": 97.66,
+        "productivity": 6248
+      },
+      "2024-11-14": {
+        "yield": 98.62,
+        "productivity": 6999
+      },
+      "2024-11-15": {
+        "yield": 98.59,
+        "productivity": 6153
+      },
+      "2024-11-16": {
+        "yield": 97.7,
+        "productivity": 6940
+      },
+      "2024-11-17": {
+        "yield": 99,
+        "productivity": 6058
+      },
+      "2024-11-18": {
+        "yield": 97.45,
+        "productivity": 6968
+      },
+      "2024-11-19": {
+        "yield": 98.74,
+        "productivity": 6038
+      },
+      "2024-11-20": {
+        "yield": 98.96,
+        "productivity": 6137
+      },
+      "2024-11-21": {
+        "yield": 97.94,
+        "productivity": 6998
+      },
+      "2024-11-22": {
+        "yield": 98.42,
+        "productivity": 6231
+      },
+      "2024-11-23": {
+        "yield": 98.76,
+        "productivity": 6999
+      },
+      "2024-11-24": {
+        "yield": 97.4,
+        "productivity": 6324
+      },
+      "2024-11-25": {
+        "yield": 98.99,
+        "productivity": 6990
+      },
+      "2024-11-26": {
+        "yield": 97.75,
+        "productivity": 6053
+      },
+      "2024-11-27": {
+        "yield": 98.56,
+        "productivity": 6972
+      },
+      "2024-11-28": {
+        "yield": 98.65,
+        "productivity": 6042
+      },
+      "2024-11-29": {
+        "yield": 97.61,
+        "productivity": 6945
+      },
+      "2024-11-30": {
+        "yield": 98.18,
+        "productivity": 6908
+      },
+      "2024-12-01": {
+        "yield": 98.5,
+        "productivity": 6269
+      },
+      "2024-12-02": {
+        "yield": 97.83,
+        "productivity": 6999
+      },
+      "2024-12-03": {
+        "yield": 98.98,
+        "productivity": 6175
+      },
+      "2024-12-04": {
+        "yield": 97.31,
+        "productivity": 6993
+      },
+      "2024-12-05": {
+        "yield": 98.8,
+        "productivity": 6079
+      },
+      "2024-12-06": {
+        "yield": 98.35,
+        "productivity": 6978
+      },
+      "2024-12-07": {
+        "yield": 98.02,
+        "productivity": 6016
+      },
+      "2024-12-08": {
+        "yield": 98.94,
+        "productivity": 6984
+      },
+      "2024-12-09": {
+        "yield": 97.1,
+        "productivity": 6112
+      },
+      "2024-12-10": {
+        "yield": 97.41,
+        "productivity": 6210
+      },
+      "2024-12-11": {
+        "yield": 98.76,
+        "productivity": 6999
+      },
+      "2024-12-12": {
+        "yield": 98.42,
+        "productivity": 6303
+      },
+      "2024-12-13": {
+        "yield": 98.65,
+        "productivity": 6993
+      },
+      "2024-12-14": {
+        "yield": 98.56,
+        "productivity": 6394
+      },
+      "2024-12-15": {
+        "yield": 97.74,
+        "productivity": 6977
+      },
+      "2024-12-16": {
+        "yield": 98.99,
+        "productivity": 6480
+      },
+      "2024-12-17": {
+        "yield": 97.41,
+        "productivity": 6952
+      },
+      "2024-12-18": {
+        "yield": 98.76,
+        "productivity": 6117
+      },
+      "2024-12-19": {
+        "yield": 98.42,
+        "productivity": 6918
+      },
+      "2024-12-20": {
+        "yield": 98.62,
+        "productivity": 6875
+      },
+      "2024-12-21": {
+        "yield": 97.65,
+        "productivity": 6308
+      },
+      "2024-12-22": {
+        "yield": 99,
+        "productivity": 6824
+      },
+      "2024-12-23": {
+        "yield": 97.5,
+        "productivity": 6398
+      },
+      "2024-12-24": {
+        "yield": 98.71,
+        "productivity": 6766
+      },
+      "2024-12-25": {
+        "yield": 97.71,
+        "productivity": 6484
+      },
+      "2024-12-26": {
+        "yield": 98.59,
+        "productivity": 6700
+      },
+      "2024-12-27": {
+        "yield": 98.62,
+        "productivity": 6566
+      },
+      "2024-12-28": {
+        "yield": 97.65,
+        "productivity": 6917
+      },
+      "2024-12-29": {
+        "yield": 99,
+        "productivity": 6643
+      },
+      "2024-12-30": {
+        "yield": 98.99,
+        "productivity": 6715
+      },
+      "2024-12-31": {
+        "yield": 97.8,
+        "productivity": 6822
+      },
+      "2025-01-01": {
+        "yield": 98.45,
+        "productivity": 6537
+      },
+      "2025-01-02": {
+        "yield": 97.9,
+        "productivity": 6655
+      },
+      "2025-01-03": {
+        "yield": 98.97,
+        "productivity": 6616
+      },
+      "2025-01-04": {
+        "yield": 97.23,
+        "productivity": 6579
+      },
+      "2025-01-05": {
+        "yield": 98.83,
+        "productivity": 6689
+      },
+      "2025-01-06": {
+        "yield": 98.29,
+        "productivity": 6498
+      },
+      "2025-01-07": {
+        "yield": 98.09,
+        "productivity": 6755
+      },
+      "2025-01-08": {
+        "yield": 98.92,
+        "productivity": 6786
+      },
+      "2025-01-09": {
+        "yield": 97.02,
+        "productivity": 6815
+      },
+      "2025-01-10": {
+        "yield": 97.62,
+        "productivity": 6868
+      },
+      "2025-01-11": {
+        "yield": 99,
+        "productivity": 6651
+      },
+      "2025-01-12": {
+        "yield": 97.54,
+        "productivity": 6912
+      },
+      "2025-01-13": {
+        "yield": 98.69,
+        "productivity": 6575
+      },
+      "2025-01-14": {
+        "yield": 98.51,
+        "productivity": 6947
+      },
+      "2025-01-15": {
+        "yield": 97.82,
+        "productivity": 6494
+      },
+      "2025-01-16": {
+        "yield": 98.98,
+        "productivity": 6758
+      },
+      "2025-01-17": {
+        "yield": 97.33,
+        "productivity": 6408
+      },
+      "2025-01-18": {
+        "yield": 98.79,
+        "productivity": 6817
+      },
+      "2025-01-19": {
+        "yield": 98.36,
+        "productivity": 6318
+      },
+      "2025-01-20": {
+        "yield": 97.83,
+        "productivity": 6223
+      },
+      "2025-01-21": {
+        "yield": 98.5,
+        "productivity": 6914
+      },
+      "2025-01-22": {
+        "yield": 98.7,
+        "productivity": 6128
+      },
+      "2025-01-23": {
+        "yield": 97.52,
+        "productivity": 6948
+      },
+      "2025-01-24": {
+        "yield": 99,
+        "productivity": 6032
+      },
+      "2025-01-25": {
+        "yield": 97.63,
+        "productivity": 6974
+      },
+      "2025-01-26": {
+        "yield": 98.64,
+        "productivity": 6404
+      },
+      "2025-01-27": {
+        "yield": 98.57,
+        "productivity": 6991
+      },
+      "2025-01-28": {
+        "yield": 97.73,
+        "productivity": 6314
+      },
+      "2025-01-29": {
+        "yield": 98.99,
+        "productivity": 6999
+      },
+      "2025-01-30": {
+        "yield": 98.84,
+        "productivity": 6997
+      },
+      "2025-01-31": {
+        "yield": 97.22,
+        "productivity": 6124
+      },
+      "2025-02-01": {
+        "yield": 97.02,
+        "productivity": 6154
+      },
+      "2025-02-02": {
+        "yield": 98.92,
+        "productivity": 6940
+      },
+      "2025-02-03": {
+        "yield": 98.09,
+        "productivity": 6513
+      },
+      "2025-02-04": {
+        "yield": 98.85,
+        "productivity": 6968
+      },
+      "2025-02-05": {
+        "yield": 98.26,
+        "productivity": 6428
+      },
+      "2025-02-06": {
+        "yield": 98.13,
+        "productivity": 6988
+      },
+      "2025-02-07": {
+        "yield": 98.91,
+        "productivity": 6339
+      },
+      "2025-02-08": {
+        "yield": 97.03,
+        "productivity": 6858
+      },
+      "2025-02-09": {
+        "yield": 98.92,
+        "productivity": 6247
+      },
+      "2025-02-10": {
+        "yield": 98.81,
+        "productivity": 6149
+      },
+      "2025-02-11": {
+        "yield": 98.33,
+        "productivity": 6990
+      },
+      "2025-02-12": {
+        "yield": 98.04,
+        "productivity": 6054
+      },
+      "2025-02-13": {
+        "yield": 98.94,
+        "productivity": 6969
+      },
+      "2025-02-14": {
+        "yield": 97.07,
+        "productivity": 6042
+      },
+      "2025-02-15": {
+        "yield": 98.89,
+        "productivity": 6988
+      },
+      "2025-02-16": {
+        "yield": 97.28,
+        "productivity": 6138
+      },
+      "2025-02-17": {
+        "yield": 98.81,
+        "productivity": 6998
+      },
+      "2025-02-18": {
+        "yield": 98.33,
+        "productivity": 6242
+      },
+      "2025-02-19": {
+        "yield": 98.05,
+        "productivity": 6999
+      },
+      "2025-02-20": {
+        "yield": 97.77,
+        "productivity": 6989
+      },
+      "2025-02-21": {
+        "yield": 98.99,
+        "productivity": 6049
+      },
+      "2025-02-22": {
+        "yield": 97.38,
+        "productivity": 6971
+      },
+      "2025-02-23": {
+        "yield": 98.77,
+        "productivity": 6046
+      },
+      "2025-02-24": {
+        "yield": 98.4,
+        "productivity": 6944
+      },
+      "2025-02-25": {
+        "yield": 97.96,
+        "productivity": 6142
+      },
+      "2025-02-26": {
+        "yield": 98.96,
+        "productivity": 6908
+      },
+      "2025-02-27": {
+        "yield": 97.17,
+        "productivity": 6237
+      },
+      "2025-02-28": {
+        "yield": 98.86,
+        "productivity": 6998
+      },
+      "2025-03-01": {
+        "yield": 98.93,
+        "productivity": 6977
+      },
+      "2025-03-02": {
+        "yield": 98.05,
+        "productivity": 6020
+      },
+      "2025-03-03": {
+        "yield": 98.33,
+        "productivity": 6985
+      },
+      "2025-03-04": {
+        "yield": 98.82,
+        "productivity": 6116
+      },
+      "2025-03-05": {
+        "yield": 97.28,
+        "productivity": 6997
+      },
+      "2025-03-06": {
+        "yield": 98.98,
+        "productivity": 6211
+      },
+      "2025-03-07": {
+        "yield": 97.86,
+        "productivity": 6999
+      },
+      "2025-03-08": {
+        "yield": 98.48,
+        "productivity": 6304
+      },
+      "2025-03-09": {
+        "yield": 98.72,
+        "productivity": 6993
+      },
+      "2025-03-10": {
+        "yield": 98.3,
+        "productivity": 6976
+      },
+      "2025-03-11": {
+        "yield": 98.08,
+        "productivity": 6484
+      },
+      "2025-03-12": {
+        "yield": 98.92,
+        "productivity": 6951
+      },
+      "2025-03-13": {
+        "yield": 97.03,
+        "productivity": 6121
+      },
+      "2025-03-14": {
+        "yield": 98.91,
+        "productivity": 6917
+      },
+      "2025-03-15": {
+        "yield": 98.13,
+        "productivity": 6216
+      },
+      "2025-03-16": {
+        "yield": 98.25,
+        "productivity": 6874
+      },
+      "2025-03-17": {
+        "yield": 98.85,
+        "productivity": 6309
+      },
+      "2025-03-18": {
+        "yield": 97.18,
+        "productivity": 6823
+      },
+      "2025-03-19": {
+        "yield": 98.96,
+        "productivity": 6399
+      },
+      "2025-03-20": {
+        "yield": 98.99,
+        "productivity": 6488
+      },
+      "2025-03-21": {
+        "yield": 97.34,
+        "productivity": 6697
+      },
+      "2025-03-22": {
+        "yield": 98.79,
+        "productivity": 6569
+      },
+      "2025-03-23": {
+        "yield": 98.37,
+        "productivity": 6915
+      },
+      "2025-03-24": {
+        "yield": 98,
+        "productivity": 6646
+      },
+      "2025-03-25": {
+        "yield": 98.95,
+        "productivity": 6872
+      },
+      "2025-03-26": {
+        "yield": 97.13,
+        "productivity": 6716
+      },
+      "2025-03-27": {
+        "yield": 98.87,
+        "productivity": 6821
+      },
+      "2025-03-28": {
+        "yield": 98.21,
+        "productivity": 6780
+      },
+      "2025-03-29": {
+        "yield": 98.18,
+        "productivity": 6762
+      },
+      "2025-03-30": {
+        "yield": 98.63,
+        "productivity": 6694
+      },
+      "2025-03-31": {
+        "yield": 98.58,
+        "productivity": 6887
+      },
+      "2025-04-01": {
+        "yield": 98.69,
+        "productivity": 6548
+      },
+      "2025-04-02": {
+        "yield": 97.53,
+        "productivity": 6925
+      },
+      "2025-04-03": {
+        "yield": 99,
+        "productivity": 6626
+      },
+      "2025-04-04": {
+        "yield": 97.62,
+        "productivity": 6884
+      },
+      "2025-04-05": {
+        "yield": 98.64,
+        "productivity": 6288
+      },
+      "2025-04-06": {
+        "yield": 98.57,
+        "productivity": 6835
+      },
+      "2025-04-07": {
+        "yield": 97.73,
+        "productivity": 6379
+      },
+      "2025-04-08": {
+        "yield": 98.99,
+        "productivity": 6779
+      },
+      "2025-04-09": {
+        "yield": 97.42,
+        "productivity": 6466
+      },
+      "2025-04-10": {
+        "yield": 97.22,
+        "productivity": 6552
+      },
+      "2025-04-11": {
+        "yield": 98.97,
+        "productivity": 6642
+      },
+      "2025-04-12": {
+        "yield": 97.91,
+        "productivity": 6629
+      },
+      "2025-04-13": {
+        "yield": 98.44,
+        "productivity": 6565
+      },
+      "2025-04-14": {
+        "yield": 98.74,
+        "productivity": 6701
+      },
+      "2025-04-15": {
+        "yield": 97.44,
+        "productivity": 6833
+      },
+      "2025-04-16": {
+        "yield": 98.99,
+        "productivity": 6766
+      },
+      "2025-04-17": {
+        "yield": 97.72,
+        "productivity": 6776
+      },
+      "2025-04-18": {
+        "yield": 98.58,
+        "productivity": 6824
+      },
+      "2025-04-19": {
+        "yield": 98.63,
+        "productivity": 6712
+      },
+      "2025-04-20": {
+        "yield": 98.18,
+        "productivity": 6639
+      },
+      "2025-04-21": {
+        "yield": 98.21,
+        "productivity": 6919
+      },
+      "2025-04-22": {
+        "yield": 98.87,
+        "productivity": 6562
+      },
+      "2025-04-23": {
+        "yield": 97.13,
+        "productivity": 6952
+      },
+      "2025-04-24": {
+        "yield": 98.95,
+        "productivity": 6479
+      },
+      "2025-04-25": {
+        "yield": 98,
+        "productivity": 6769
+      },
+      "2025-04-26": {
+        "yield": 98.37,
+        "productivity": 6393
+      },
+      "2025-04-27": {
+        "yield": 98.79,
+        "productivity": 6827
+      },
+      "2025-04-28": {
+        "yield": 97.34,
+        "productivity": 6303
+      },
+      "2025-04-29": {
+        "yield": 98.99,
+        "productivity": 6877
+      },
+      "2025-04-30": {
+        "yield": 98.96,
+        "productivity": 6920
+      },
+      "2025-05-01": {
+        "yield": 97.38,
+        "productivity": 6583
+      },
+      "2025-05-02": {
+        "yield": 99,
+        "productivity": 6686
+      },
+      "2025-05-03": {
+        "yield": 97.58,
+        "productivity": 6502
+      },
+      "2025-05-04": {
+        "yield": 98.66,
+        "productivity": 6752
+      },
+      "2025-05-05": {
+        "yield": 98.54,
+        "productivity": 6417
+      },
+      "2025-05-06": {
+        "yield": 97.77,
+        "productivity": 6812
+      },
+      "2025-05-07": {
+        "yield": 98.99,
+        "productivity": 6727
+      },
+      "2025-05-08": {
+        "yield": 97.37,
+        "productivity": 6864
+      },
+      "2025-05-09": {
+        "yield": 98.77,
+        "productivity": 6657
+      },
+      "2025-05-10": {
+        "yield": 98.61,
+        "productivity": 6579
+      },
+      "2025-05-11": {
+        "yield": 98.6,
+        "productivity": 6946
+      },
+      "2025-05-12": {
+        "yield": 97.68,
+        "productivity": 6498
+      },
+      "2025-05-13": {
+        "yield": 99,
+        "productivity": 6972
+      },
+      "2025-05-14": {
+        "yield": 97.47,
+        "productivity": 6412
+      },
+      "2025-05-15": {
+        "yield": 99,
+        "productivity": 6990
+      },
+      "2025-05-16": {
+        "yield": 97.67,
+        "productivity": 6323
+      },
+      "2025-05-17": {
+        "yield": 98.61,
+        "productivity": 6867
+      },
+      "2025-05-18": {
+        "yield": 98.6,
+        "productivity": 6230
+      },
+      "2025-05-19": {
+        "yield": 97.68,
+        "productivity": 6911
+      },
+      "2025-05-20": {
+        "yield": 97.38,
+        "productivity": 6947
+      },
+      "2025-05-21": {
+        "yield": 98.99,
+        "productivity": 6037
+      },
+      "2025-05-22": {
+        "yield": 97.77,
+        "productivity": 6973
+      },
+      "2025-05-23": {
+        "yield": 98.55,
+        "productivity": 6058
+      },
+      "2025-05-24": {
+        "yield": 98.66,
+        "productivity": 6991
+      },
+      "2025-05-25": {
+        "yield": 97.59,
+        "productivity": 6154
+      },
+      "2025-05-26": {
+        "yield": 99,
+        "productivity": 6999
+      },
+      "2025-05-27": {
+        "yield": 97.38,
+        "productivity": 6226
+      },
+      "2025-05-28": {
+        "yield": 98.99,
+        "productivity": 6998
+      },
+      "2025-05-29": {
+        "yield": 97.76,
+        "productivity": 6131
+      },
+      "2025-05-30": {
+        "yield": 98.04,
+        "productivity": 6032
+      },
+      "2025-05-31": {
+        "yield": 98.33,
+        "productivity": 6967
+      },
+      "2025-06-01": {
+        "yield": 98.79,
+        "productivity": 6967
+      },
+      "2025-06-02": {
+        "yield": 98.37,
+        "productivity": 6432
+      },
+      "2025-06-03": {
+        "yield": 98,
+        "productivity": 6987
+      },
+      "2025-06-04": {
+        "yield": 98.95,
+        "productivity": 6343
+      },
+      "2025-06-05": {
+        "yield": 97.12,
+        "productivity": 6998
+      },
+      "2025-06-06": {
+        "yield": 98.88,
+        "productivity": 6251
+      },
+      "2025-06-07": {
+        "yield": 98.2,
+        "productivity": 6999
+      },
+      "2025-06-08": {
+        "yield": 98.18,
+        "productivity": 6157
+      },
+      "2025-06-09": {
+        "yield": 98.89,
+        "productivity": 6939
+      },
+      "2025-06-10": {
+        "yield": 98.58,
+        "productivity": 6973
+      },
+      "2025-06-11": {
+        "yield": 97.72,
+        "productivity": 6037
+      },
+      "2025-06-12": {
+        "yield": 98.99,
+        "productivity": 6988
+      },
+      "2025-06-13": {
+        "yield": 97.43,
+        "productivity": 6133
+      },
+      "2025-06-14": {
+        "yield": 98.75,
+        "productivity": 6998
+      },
+      "2025-06-15": {
+        "yield": 98.44,
+        "productivity": 6228
+      },
+      "2025-06-16": {
+        "yield": 97.92,
+        "productivity": 6999
+      },
+      "2025-06-17": {
+        "yield": 98.97,
+        "productivity": 6153
+      },
+      "2025-06-18": {
+        "yield": 97.22,
+        "productivity": 6990
+      },
+      "2025-06-19": {
+        "yield": 98.84,
+        "productivity": 6057
+      },
+      "2025-06-20": {
+        "yield": 98.99,
+        "productivity": 6498
+      },
+      "2025-06-21": {
+        "yield": 97.73,
+        "productivity": 6945
+      },
+      "2025-06-22": {
+        "yield": 98.57,
+        "productivity": 6137
+      },
+      "2025-06-23": {
+        "yield": 98.64,
+        "productivity": 6910
+      },
+      "2025-06-24": {
+        "yield": 97.63,
+        "productivity": 6232
+      },
+      "2025-06-25": {
+        "yield": 99,
+        "productivity": 6866
+      },
+      "2025-06-26": {
+        "yield": 97.52,
+        "productivity": 6325
+      },
+      "2025-06-27": {
+        "yield": 98.7,
+        "productivity": 6990
+      },
+      "2025-06-28": {
+        "yield": 98.5,
+        "productivity": 6414
+      },
+      "2025-06-29": {
+        "yield": 97.83,
+        "productivity": 6972
+      },
+      "2025-06-30": {
+        "yield": 98.36,
+        "productivity": 6944
+      },
+      "2025-07-01": {
+        "yield": 98.87,
+        "productivity": 6112
+      },
+      "2025-07-02": {
+        "yield": 97.13,
+        "productivity": 6920
+      },
+      "2025-07-03": {
+        "yield": 98.95,
+        "productivity": 6207
+      },
+      "2025-07-04": {
+        "yield": 97.99,
+        "productivity": 6999
+      },
+      "2025-07-05": {
+        "yield": 98.38,
+        "productivity": 6300
+      },
+      "2025-07-06": {
+        "yield": 98.79,
+        "productivity": 6993
+      },
+      "2025-07-07": {
+        "yield": 97.35,
+        "productivity": 6390
+      },
+      "2025-07-08": {
+        "yield": 98.99,
+        "productivity": 6978
+      },
+      "2025-07-09": {
+        "yield": 97.8,
+        "productivity": 6017
+      },
+      "2025-07-10": {
+        "yield": 97.18,
+        "productivity": 6562
+      },
+      "2025-07-11": {
+        "yield": 98.86,
+        "productivity": 6919
+      },
+      "2025-07-12": {
+        "yield": 98.25,
+        "productivity": 6639
+      },
+      "2025-07-13": {
+        "yield": 98.14,
+        "productivity": 6876
+      },
+      "2025-07-14": {
+        "yield": 98.9,
+        "productivity": 6304
+      },
+      "2025-07-15": {
+        "yield": 97.04,
+        "productivity": 6826
+      },
+      "2025-07-16": {
+        "yield": 98.93,
+        "productivity": 6394
+      },
+      "2025-07-17": {
+        "yield": 98.07,
+        "productivity": 6768
+      },
+      "2025-07-18": {
+        "yield": 98.31,
+        "productivity": 6481
+      },
+      "2025-07-19": {
+        "yield": 98.83,
+        "productivity": 6952
+      },
+      "2025-07-20": {
+        "yield": 98.48,
+        "productivity": 6629
+      },
+      "2025-07-21": {
+        "yield": 97.87,
+        "productivity": 6642
+      },
+      "2025-07-22": {
+        "yield": 98.98,
+        "productivity": 6874
+      },
+      "2025-07-23": {
+        "yield": 97.27,
+        "productivity": 6713
+      },
+      "2025-07-24": {
+        "yield": 98.82,
+        "productivity": 6824
+      },
+      "2025-07-25": {
+        "yield": 98.32,
+        "productivity": 6777
+      },
+      "2025-07-26": {
+        "yield": 98.05,
+        "productivity": 6765
+      },
+      "2025-07-27": {
+        "yield": 98.93,
+        "productivity": 6834
+      },
+      "2025-07-28": {
+        "yield": 97.06,
+        "productivity": 6700
+      },
+      "2025-07-29": {
+        "yield": 98.9,
+        "productivity": 6567
+      },
+      "2025-07-30": {
+        "yield": 99,
+        "productivity": 6925
+      },
+      "2025-07-31": {
+        "yield": 97.58,
+        "productivity": 6548
+      },
+      "2025-08-01": {
+        "yield": 97.18,
+        "productivity": 6886
+      },
+      "2025-08-02": {
+        "yield": 98.96,
+        "productivity": 6694
+      },
+      "2025-08-03": {
+        "yield": 97.95,
+        "productivity": 6838
+      },
+      "2025-08-04": {
+        "yield": 98.41,
+        "productivity": 6375
+      },
+      "2025-08-05": {
+        "yield": 98.77,
+        "productivity": 6782
+      },
+      "2025-08-06": {
+        "yield": 97.39,
+        "productivity": 6462
+      },
+      "2025-08-07": {
+        "yield": 98.99,
+        "productivity": 6718
+      },
+      "2025-08-08": {
+        "yield": 97.76,
+        "productivity": 6545
+      },
+      "2025-08-09": {
+        "yield": 98.55,
+        "productivity": 6648
+      },
+      "2025-08-10": {
+        "yield": 98.34,
+        "productivity": 6569
+      },
+      "2025-08-11": {
+        "yield": 98.81,
+        "productivity": 6698
+      },
+      "2025-08-12": {
+        "yield": 97.29,
+        "productivity": 6487
+      },
+      "2025-08-13": {
+        "yield": 98.89,
+        "productivity": 6763
+      },
+      "2025-08-14": {
+        "yield": 97.08,
+        "productivity": 6779
+      },
+      "2025-08-15": {
+        "yield": 98.94,
+        "productivity": 6822
+      },
+      "2025-08-16": {
+        "yield": 98.04,
+        "productivity": 6715
+      },
+      "2025-08-17": {
+        "yield": 98.34,
+        "productivity": 6873
+      },
+      "2025-08-18": {
+        "yield": 98.81,
+        "productivity": 6644
+      },
+      "2025-08-19": {
+        "yield": 97.29,
+        "productivity": 6916
+      },
+      "2025-08-20": {
+        "yield": 97.02,
+        "productivity": 6951
+      },
+      "2025-08-21": {
+        "yield": 98.91,
+        "productivity": 6484
+      },
+      "2025-08-22": {
+        "yield": 98.12,
+        "productivity": 6976
+      },
+      "2025-08-23": {
+        "yield": 98.26,
+        "productivity": 6397
+      },
+      "2025-08-24": {
+        "yield": 98.85,
+        "productivity": 6824
+      },
+      "2025-08-25": {
+        "yield": 98.09,
+        "productivity": 6307
+      },
+      "2025-08-26": {
+        "yield": 98.92,
+        "productivity": 6875
+      },
+      "2025-08-27": {
+        "yield": 97.02,
+        "productivity": 6214
+      },
+      "2025-08-28": {
+        "yield": 98.91,
+        "productivity": 6917
+      },
+      "2025-08-29": {
+        "yield": 98.12,
+        "productivity": 6119
+      },
+      "2025-08-30": {
+        "yield": 98.36,
+        "productivity": 6020
+      },
+      "2025-08-31": {
+        "yield": 98.01,
+        "productivity": 6977
+      },
+      "2025-09-01": {
+        "yield": 98.58,
+        "productivity": 6749
+      },
+      "2025-09-02": {
+        "yield": 98.63,
+        "productivity": 6421
+      },
+      "2025-09-03": {
+        "yield": 97.64,
+        "productivity": 6809
+      },
+      "2025-09-04": {
+        "yield": 99,
+        "productivity": 6332
+      },
+      "2025-09-05": {
+        "yield": 97.52,
+        "productivity": 6862
+      },
+      "2025-09-06": {
+        "yield": 98.7,
+        "productivity": 6661
+      },
+      "2025-09-07": {
+        "yield": 98.5,
+        "productivity": 6907
+      },
+      "2025-09-08": {
+        "yield": 97.83,
+        "productivity": 6585
+      },
+      "2025-09-09": {
+        "yield": 98.98,
+        "productivity": 6943
+      },
+      "2025-09-10": {
+        "yield": 98.79,
+        "productivity": 6971
+      },
+      "2025-09-11": {
+        "yield": 97.33,
+        "productivity": 6417
+      },
+      "2025-09-12": {
+        "yield": 98.98,
+        "productivity": 6989
+      },
+      "2025-09-13": {
+        "yield": 97.81,
+        "productivity": 6327
+      },
+      "2025-09-14": {
+        "yield": 98.52,
+        "productivity": 6998
+      },
+      "2025-09-15": {
+        "yield": 98.69,
+        "productivity": 6235
+      },
+      "2025-09-16": {
+        "yield": 97.54,
+        "productivity": 6909
+      },
+      "2025-09-17": {
+        "yield": 99,
+        "productivity": 6140
+      },
+      "2025-09-18": {
+        "yield": 97.61,
+        "productivity": 6944
+      },
+      "2025-09-19": {
+        "yield": 98.65,
+        "productivity": 6045
+      },
+      "2025-09-20": {
+        "yield": 98.92,
+        "productivity": 6054
+      },
+      "2025-09-21": {
+        "yield": 98.08,
+        "productivity": 6990
+      },
+      "2025-09-22": {
+        "yield": 98.3,
+        "productivity": 6150
+      },
+      "2025-09-23": {
+        "yield": 98.83,
+        "productivity": 6999
+      },
+      "2025-09-24": {
+        "yield": 97.24,
+        "productivity": 6244
+      },
+      "2025-09-25": {
+        "yield": 98.97,
+        "productivity": 6998
+      },
+      "2025-09-26": {
+        "yield": 97.9,
+        "productivity": 6136
+      },
+      "2025-09-27": {
+        "yield": 98.45,
+        "productivity": 6988
+      },
+      "2025-09-28": {
+        "yield": 98.74,
+        "productivity": 6040
+      },
+      "2025-09-29": {
+        "yield": 97.45,
+        "productivity": 6969
+      },
+      "2025-09-30": {
+        "yield": 98.05,
+        "productivity": 6940
+      },
+      "2025-10-01": {
+        "yield": 98.44,
+        "productivity": 6814
+      },
+      "2025-10-02": {
+        "yield": 98.75,
+        "productivity": 6725
+      },
+      "2025-10-03": {
+        "yield": 97.43,
+        "productivity": 6866
+      },
+      "2025-10-04": {
+        "yield": 98.99,
+        "productivity": 6655
+      },
+      "2025-10-05": {
+        "yield": 97.72,
+        "productivity": 6910
+      },
+      "2025-10-06": {
+        "yield": 98.58,
+        "productivity": 6580
+      },
+      "2025-10-07": {
+        "yield": 98.63,
+        "productivity": 6688
+      },
+      "2025-10-08": {
+        "yield": 97.64,
+        "productivity": 6499
+      },
+      "2025-10-09": {
+        "yield": 99,
+        "productivity": 6755
+      },
+      "2025-10-10": {
+        "yield": 98.88,
+        "productivity": 6816
+      },
+      "2025-10-11": {
+        "yield": 97.12,
+        "productivity": 6321
+      },
+      "2025-10-12": {
+        "yield": 98.95,
+        "productivity": 6868
+      },
+      "2025-10-13": {
+        "yield": 98,
+        "productivity": 6228
+      },
+      "2025-10-14": {
+        "yield": 98.37,
+        "productivity": 6912
+      },
+      "2025-10-15": {
+        "yield": 98.79,
+        "productivity": 6133
+      },
+      "2025-10-16": {
+        "yield": 97.33,
+        "productivity": 6947
+      },
+      "2025-10-17": {
+        "yield": 98.98,
+        "productivity": 6495
+      },
+      "2025-10-18": {
+        "yield": 97.81,
+        "productivity": 6973
+      },
+      "2025-10-19": {
+        "yield": 98.52,
+        "productivity": 6409
+      },
+      "2025-10-20": {
+        "yield": 98.29,
+        "productivity": 6316
+      },
+      "2025-10-21": {
+        "yield": 98.83,
+        "productivity": 6999
+      },
+      "2025-10-22": {
+        "yield": 97.23,
+        "productivity": 6224
+      },
+      "2025-10-23": {
+        "yield": 98.91,
+        "productivity": 6998
+      },
+      "2025-10-24": {
+        "yield": 97.02,
+        "productivity": 6129
+      },
+      "2025-10-25": {
+        "yield": 98.92,
+        "productivity": 6987
+      },
+      "2025-10-26": {
+        "yield": 98.08,
+        "productivity": 6033
+      },
+      "2025-10-27": {
+        "yield": 98.3,
+        "productivity": 6974
+      },
+      "2025-10-28": {
+        "yield": 98.83,
+        "productivity": 6062
+      },
+      "2025-10-29": {
+        "yield": 97.24,
+        "productivity": 6991
+      },
+      "2025-10-30": {
+        "yield": 97.08,
+        "productivity": 6999
+      },
+      "2025-10-31": {
+        "yield": 98.89,
+        "productivity": 6255
+      },
+      "2025-11-01": {
+        "yield": 99,
+        "productivity": 6249
+      },
+      "2025-11-02": {
+        "yield": 97.48,
+        "productivity": 6903
+      },
+      "2025-11-03": {
+        "yield": 98.72,
+        "productivity": 6155
+      },
+      "2025-11-04": {
+        "yield": 98.47,
+        "productivity": 6940
+      },
+      "2025-11-05": {
+        "yield": 97.87,
+        "productivity": 6059
+      },
+      "2025-11-06": {
+        "yield": 98.98,
+        "productivity": 6968
+      },
+      "2025-11-07": {
+        "yield": 97.27,
+        "productivity": 6036
+      },
+      "2025-11-08": {
+        "yield": 98.82,
+        "productivity": 6988
+      },
+      "2025-11-09": {
+        "yield": 98.32,
+        "productivity": 6339
+      },
+      "2025-11-10": {
+        "yield": 97.77,
+        "productivity": 6230
+      },
+      "2025-11-11": {
+        "yield": 98.54,
+        "productivity": 6999
+      },
+      "2025-11-12": {
+        "yield": 98.66,
+        "productivity": 6150
+      },
+      "2025-11-13": {
+        "yield": 97.58,
+        "productivity": 6990
+      },
+      "2025-11-14": {
+        "yield": 99,
+        "productivity": 6054
+      },
+      "2025-11-15": {
+        "yield": 97.57,
+        "productivity": 6972
+      },
+      "2025-11-16": {
+        "yield": 98.67,
+        "productivity": 6041
+      },
+      "2025-11-17": {
+        "yield": 98.54,
+        "productivity": 6946
+      },
+      "2025-11-18": {
+        "yield": 97.78,
+        "productivity": 6137
+      },
+      "2025-11-19": {
+        "yield": 98.99,
+        "productivity": 6998
+      },
+      "2025-11-20": {
+        "yield": 98.82,
+        "productivity": 6865
+      },
+      "2025-11-21": {
+        "yield": 97.28,
+        "productivity": 6327
+      },
+      "2025-11-22": {
+        "yield": 98.98,
+        "productivity": 6990
+      },
+      "2025-11-23": {
+        "yield": 97.86,
+        "productivity": 6416
+      },
+      "2025-11-24": {
+        "yield": 98.48,
+        "productivity": 6971
+      },
+      "2025-11-25": {
+        "yield": 98.72,
+        "productivity": 6502
+      },
+      "2025-11-26": {
+        "yield": 97.49,
+        "productivity": 6944
+      },
+      "2025-11-27": {
+        "yield": 99,
+        "productivity": 6583
+      },
+      "2025-11-28": {
+        "yield": 97.66,
+        "productivity": 6908
+      },
+      "2025-11-29": {
+        "yield": 98.61,
+        "productivity": 6236
+      },
+      "2025-11-30": {
+        "yield": 98.91,
+        "productivity": 6729
+      },
+      "2025-12-01": {
+        "yield": 98.29,
+        "productivity": 6993
+      },
+      "2025-12-02": {
+        "yield": 98.09,
+        "productivity": 6392
+      },
+      "2025-12-03": {
+        "yield": 98.92,
+        "productivity": 6977
+      },
+      "2025-12-04": {
+        "yield": 97.01,
+        "productivity": 6019
+      },
+      "2025-12-05": {
+        "yield": 98.91,
+        "productivity": 6952
+      },
+      "2025-12-06": {
+        "yield": 98.12,
+        "productivity": 6116
+      },
+      "2025-12-07": {
+        "yield": 98.27,
+        "productivity": 6919
+      },
+      "2025-12-08": {
+        "yield": 98.29,
+        "productivity": 6211
+      },
+      "2025-12-09": {
+        "yield": 98.1,
+        "productivity": 6877
+      },
+      "2025-12-10": {
+        "yield": 97.82,
+        "productivity": 6825
+      },
+      "2025-12-11": {
+        "yield": 98.98,
+        "productivity": 6397
+      },
+      "2025-12-12": {
+        "yield": 97.32,
+        "productivity": 6767
+      },
+      "2025-12-13": {
+        "yield": 98.8,
+        "productivity": 6483
+      },
+      "2025-12-14": {
+        "yield": 98.36,
+        "productivity": 6951
+      },
+      "2025-12-15": {
+        "yield": 98.01,
+        "productivity": 6565
+      },
+      "2025-12-16": {
+        "yield": 98.94,
+        "productivity": 6917
+      },
+      "2025-12-17": {
+        "yield": 97.11,
+        "productivity": 6642
+      },
+      "2025-12-18": {
+        "yield": 98.88,
+        "productivity": 6874
+      },
+      "2025-12-19": {
+        "yield": 98.2,
+        "productivity": 6712
+      },
+      "2025-12-20": {
+        "yield": 97.63,
+        "productivity": 6778
+      },
+      "2025-12-21": {
+        "yield": 98.64,
+        "productivity": 6764
+      },
+      "2025-12-22": {
+        "yield": 98.57,
+        "productivity": 6835
+      },
+      "2025-12-23": {
+        "yield": 97.73,
+        "productivity": 6698
+      },
+      "2025-12-24": {
+        "yield": 98.99,
+        "productivity": 6569
+      },
+      "2025-12-25": {
+        "yield": 97.42,
+        "productivity": 6626
+      },
+      "2025-12-26": {
+        "yield": 98.75,
+        "productivity": 6645
+      },
+      "2025-12-27": {
+        "yield": 98.43,
+        "productivity": 6548
+      },
+      "2025-12-28": {
+        "yield": 97.93,
+        "productivity": 6716
+      },
+      "2025-12-29": {
+        "yield": 98.96,
+        "productivity": 6821
+      },
+      "2025-12-30": {
+        "yield": 98.74,
+        "productivity": 6375
+      },
+      "2025-12-31": {
+        "yield": 97.43,
+        "productivity": 6838
+      },
+      "2026-01-01": {
+        "yield": 97.36,
+        "productivity": 6576
+      },
+      "2026-01-02": {
+        "yield": 98.78,
+        "productivity": 6947
+      },
+      "2026-01-03": {
+        "yield": 98.39,
+        "productivity": 6495
+      },
+      "2026-01-04": {
+        "yield": 97.98,
+        "productivity": 6758
+      },
+      "2026-01-05": {
+        "yield": 98.95,
+        "productivity": 6409
+      },
+      "2026-01-06": {
+        "yield": 97.14,
+        "productivity": 6817
+      },
+      "2026-01-07": {
+        "yield": 98.87,
+        "productivity": 6320
+      },
+      "2026-01-08": {
+        "yield": 98.22,
+        "productivity": 6868
+      },
+      "2026-01-09": {
+        "yield": 98.16,
+        "productivity": 6651
+      },
+      "2026-01-10": {
+        "yield": 98.62,
+        "productivity": 6129
+      },
+      "2026-01-11": {
+        "yield": 98.59,
+        "productivity": 6948
+      },
+      "2026-01-12": {
+        "yield": 97.7,
+        "productivity": 6491
+      },
+      "2026-01-13": {
+        "yield": 99,
+        "productivity": 6974
+      },
+      "2026-01-14": {
+        "yield": 97.45,
+        "productivity": 6405
+      },
+      "2026-01-15": {
+        "yield": 98.74,
+        "productivity": 6991
+      },
+      "2026-01-16": {
+        "yield": 98.45,
+        "productivity": 6315
+      },
+      "2026-01-17": {
+        "yield": 97.9,
+        "productivity": 6999
+      },
+      "2026-01-18": {
+        "yield": 98.97,
+        "productivity": 6223
+      },
+      "2026-01-19": {
+        "yield": 97.24,
+        "productivity": 6914
+      },
+      "2026-01-20": {
+        "yield": 97.4,
+        "productivity": 6986
+      },
+      "2026-01-21": {
+        "yield": 98.99,
+        "productivity": 6029
+      },
+      "2026-01-22": {
+        "yield": 97.75,
+        "productivity": 6975
+      },
+      "2026-01-23": {
+        "yield": 98.56,
+        "productivity": 6066
+      },
+      "2026-01-24": {
+        "yield": 98.65,
+        "productivity": 6992
+      },
+      "2026-01-25": {
+        "yield": 97.61,
+        "productivity": 6162
+      },
+      "2026-01-26": {
+        "yield": 99,
+        "productivity": 6999
+      },
+      "2026-01-27": {
+        "yield": 97.55,
+        "productivity": 6256
+      },
+      "2026-01-28": {
+        "yield": 98.68,
+        "productivity": 6997
+      },
+      "2026-01-29": {
+        "yield": 98.52,
+        "productivity": 6123
+      },
+      "2026-01-30": {
+        "yield": 98.03,
+        "productivity": 6439
+      },
+      "2026-01-31": {
+        "yield": 98.35,
+        "productivity": 6965
+      },
+      "2026-02-01": {
+        "yield": 98.2,
+        "productivity": 6969
+      },
+      "2026-02-02": {
+        "yield": 98.88,
+        "productivity": 6041
+      },
+      "2026-02-03": {
+        "yield": 97.11,
+        "productivity": 6988
+      },
+      "2026-02-04": {
+        "yield": 98.94,
+        "productivity": 6336
+      },
+      "2026-02-05": {
+        "yield": 98.01,
+        "productivity": 6998
+      },
+      "2026-02-06": {
+        "yield": 98.36,
+        "productivity": 6243
+      },
+      "2026-02-07": {
+        "yield": 98.8,
+        "productivity": 6999
+      },
+      "2026-02-08": {
+        "yield": 97.32,
+        "productivity": 6149
+      },
+      "2026-02-09": {
+        "yield": 98.98,
+        "productivity": 6990
+      },
+      "2026-02-10": {
+        "yield": 98.96,
+        "productivity": 6971
+      },
+      "2026-02-11": {
+        "yield": 97.2,
+        "productivity": 6045
+      },
+      "2026-02-12": {
+        "yield": 98.85,
+        "productivity": 6944
+      },
+      "2026-02-13": {
+        "yield": 98.27,
+        "productivity": 6141
+      },
+      "2026-02-14": {
+        "yield": 98.12,
+        "productivity": 6998
+      },
+      "2026-02-15": {
+        "yield": 98.91,
+        "productivity": 6236
+      },
+      "2026-02-16": {
+        "yield": 97.01,
+        "productivity": 6998
+      },
+      "2026-02-17": {
+        "yield": 98.92,
+        "productivity": 6328
+      },
+      "2026-02-18": {
+        "yield": 98.09,
+        "productivity": 6989
+      },
+      "2026-02-19": {
+        "yield": 98.29,
+        "productivity": 6417
+      },
+      "2026-02-20": {
+        "yield": 98.71,
+        "productivity": 6505
+      },
+      "2026-02-21": {
+        "yield": 98.49,
+        "productivity": 6943
+      },
+      "2026-02-22": {
+        "yield": 97.85,
+        "productivity": 6586
+      },
+      "2026-02-23": {
+        "yield": 98.98,
+        "productivity": 6907
+      },
+      "2026-02-24": {
+        "yield": 97.3,
+        "productivity": 6240
+      },
+      "2026-02-25": {
+        "yield": 98.81,
+        "productivity": 6862
+      },
+      "2026-02-26": {
+        "yield": 98.34,
+        "productivity": 6332
+      },
+      "2026-02-27": {
+        "yield": 98.03,
+        "productivity": 6809
+      },
+      "2026-02-28": {
+        "yield": 98.94,
+        "productivity": 6421
+      },
+      "2026-03-01": {
+        "yield": 98.86,
+        "productivity": 6120
+      },
+      "2026-03-02": {
+        "yield": 97.15,
+        "productivity": 6917
+      },
+      "2026-03-03": {
+        "yield": 98.95,
+        "productivity": 6215
+      },
+      "2026-03-04": {
+        "yield": 97.97,
+        "productivity": 6875
+      },
+      "2026-03-05": {
+        "yield": 98.39,
+        "productivity": 6308
+      },
+      "2026-03-06": {
+        "yield": 98.78,
+        "productivity": 6992
+      },
+      "2026-03-07": {
+        "yield": 97.37,
+        "productivity": 6398
+      },
+      "2026-03-08": {
+        "yield": 98.99,
+        "productivity": 6976
+      },
+      "2026-03-09": {
+        "yield": 97.78,
+        "productivity": 6484
+      },
+      "2026-03-10": {
+        "yield": 98.06,
+        "productivity": 6568
+      },
+      "2026-03-11": {
+        "yield": 98.32,
+        "productivity": 6915
+      },
+      "2026-03-12": {
+        "yield": 98.23,
+        "productivity": 6645
+      },
+      "2026-03-13": {
+        "yield": 98.15,
+        "productivity": 6872
+      },
+      "2026-03-14": {
+        "yield": 98.9,
+        "productivity": 6715
+      },
+      "2026-03-15": {
+        "yield": 97.06,
+        "productivity": 6822
+      },
+      "2026-03-16": {
+        "yield": 98.93,
+        "productivity": 6402
+      },
+      "2026-03-17": {
+        "yield": 98.06,
+        "productivity": 6763
+      },
+      "2026-03-18": {
+        "yield": 98.32,
+        "productivity": 6488
+      },
+      "2026-03-19": {
+        "yield": 98.82,
+        "productivity": 6697
+      },
+      "2026-03-20": {
+        "yield": 98.93,
+        "productivity": 6623
+      },
+      "2026-03-21": {
+        "yield": 97.04,
+        "productivity": 6648
+      },
+      "2026-03-22": {
+        "yield": 98.9,
+        "productivity": 6545
+      },
+      "2026-03-23": {
+        "yield": 98.14,
+        "productivity": 6718
+      },
+      "2026-03-24": {
+        "yield": 98.24,
+        "productivity": 6461
+      },
+      "2026-03-25": {
+        "yield": 98.31,
+        "productivity": 6782
+      },
+      "2026-03-26": {
+        "yield": 98.07,
+        "productivity": 6760
+      },
+      "2026-03-27": {
+        "yield": 98.93,
+        "productivity": 6838
+      },
+      "2026-03-28": {
+        "yield": 97.04,
+        "productivity": 6694
+      },
+      "2026-03-29": {
+        "yield": 98.9,
+        "productivity": 6887
+      },
+      "2026-03-30": {
+        "yield": 98.78,
+        "productivity": 6928
+      },
+      "2026-03-31": {
+        "yield": 98.38,
+        "productivity": 6541
+      },
+      "2026-04-01": {
+        "yield": 97.74,
+        "productivity": 6883
+      },
+      "2026-04-02": {
+        "yield": 98.56,
+        "productivity": 6700
+      },
+      "2026-04-03": {
+        "yield": 98.65,
+        "productivity": 6834
+      },
+      "2026-04-04": {
+        "yield": 97.61,
+        "productivity": 6766
+      },
+      "2026-04-05": {
+        "yield": 99,
+        "productivity": 6777
+      },
+      "2026-04-06": {
+        "yield": 97.54,
+        "productivity": 6824
+      },
+      "2026-04-07": {
+        "yield": 98.69,
+        "productivity": 6712
+      },
+      "2026-04-08": {
+        "yield": 98.51,
+        "productivity": 6552
+      },
+      "2026-04-09": {
+        "yield": 97.81,
+        "productivity": 6642
+      },
+      "2026-04-10": {
+        "yield": 98.35,
+        "productivity": 6563
+      },
+      "2026-04-11": {
+        "yield": 98.8,
+        "productivity": 6703
+      },
+      "2026-04-12": {
+        "yield": 97.31,
+        "productivity": 6480
+      },
+      "2026-04-13": {
+        "yield": 98.98,
+        "productivity": 6768
+      },
+      "2026-04-14": {
+        "yield": 97.83,
+        "productivity": 6394
+      },
+      "2026-04-15": {
+        "yield": 98.5,
+        "productivity": 6826
+      },
+      "2026-04-16": {
+        "yield": 98.7,
+        "productivity": 6304
+      },
+      "2026-04-17": {
+        "yield": 97.52,
+        "productivity": 6877
+      },
+      "2026-04-18": {
+        "yield": 99,
+        "productivity": 6638
+      },
+      "2026-04-19": {
+        "yield": 97.63,
+        "productivity": 6919
+      },
+      "2026-04-20": {
+        "yield": 97,
+        "productivity": 6953
+      },
+      "2026-04-21": {
+        "yield": 98.92,
+        "productivity": 6477
+      },
+      "2026-04-22": {
+        "yield": 98.1,
+        "productivity": 6978
+      },
+      "2026-04-23": {
+        "yield": 98.28,
+        "productivity": 6390
+      },
+      "2026-04-24": {
+        "yield": 98.84,
+        "productivity": 6993
+      },
+      "2026-04-25": {
+        "yield": 97.22,
+        "productivity": 6299
+      },
+      "2026-04-26": {
+        "yield": 98.97,
+        "productivity": 6879
+      },
+      "2026-04-27": {
+        "yield": 97.92,
+        "productivity": 6206
+      },
+      "2026-04-28": {
+        "yield": 98.44,
+        "productivity": 6921
+      },
+      "2026-04-29": {
+        "yield": 98.75,
+        "productivity": 6111
+      },
+      "2026-04-30": {
+        "yield": 98.35,
+        "productivity": 6012
+      },
+      "2026-05-01": {
+        "yield": 97.85,
+        "productivity": 6972
+      },
+      "2026-05-02": {
+        "yield": 98.98,
+        "productivity": 6413
+      },
+      "2026-05-03": {
+        "yield": 97.29,
+        "productivity": 6814
+      },
+      "2026-05-04": {
+        "yield": 98.81,
+        "productivity": 6324
+      },
+      "2026-05-05": {
+        "yield": 98.34,
+        "productivity": 6866
+      },
+      "2026-05-06": {
+        "yield": 98.04,
+        "productivity": 6232
+      },
+      "2026-05-07": {
+        "yield": 98.94,
+        "productivity": 6910
+      },
+      "2026-05-08": {
+        "yield": 97.08,
+        "productivity": 6137
+      },
+      "2026-05-09": {
+        "yield": 98.89,
+        "productivity": 6946
+      },
+      "2026-05-10": {
+        "yield": 99,
+        "productivity": 6973
+      },
+      "2026-05-11": {
+        "yield": 97.59,
+        "productivity": 6057
+      },
+      "2026-05-12": {
+        "yield": 98.66,
+        "productivity": 6991
+      },
+      "2026-05-13": {
+        "yield": 98.55,
+        "productivity": 6320
+      },
+      "2026-05-14": {
+        "yield": 97.76,
+        "productivity": 6999
+      },
+      "2026-05-15": {
+        "yield": 98.99,
+        "productivity": 6227
+      },
+      "2026-05-16": {
+        "yield": 97.39,
+        "productivity": 6998
+      },
+      "2026-05-17": {
+        "yield": 98.77,
+        "productivity": 6132
+      },
+      "2026-05-18": {
+        "yield": 98.41,
+        "productivity": 6947
+      },
+      "2026-05-19": {
+        "yield": 97.96,
+        "productivity": 6036
+      },
+      "2026-05-20": {
+        "yield": 98.46,
+        "productivity": 6062
+      },
+      "2026-05-21": {
+        "yield": 98.73,
+        "productivity": 6939
+      },
+      "2026-05-22": {
+        "yield": 97.47,
+        "productivity": 6158
+      },
+      "2026-05-23": {
+        "yield": 99,
+        "productivity": 6999
+      },
+      "2026-05-24": {
+        "yield": 97.69,
+        "productivity": 6252
+      },
+      "2026-05-25": {
+        "yield": 98.6,
+        "productivity": 6998
+      },
+      "2026-05-26": {
+        "yield": 98.61,
+        "productivity": 6344
+      },
+      "2026-05-27": {
+        "yield": 97.67,
+        "productivity": 6987
+      },
+      "2026-05-28": {
+        "yield": 99,
+        "productivity": 6032
+      },
+      "2026-05-29": {
+        "yield": 97.48,
+        "productivity": 6967
+      },
+      "2026-05-30": {
+        "yield": 97.16,
+        "productivity": 6937
+      },
+      "2026-05-31": {
+        "yield": 98.96,
+        "productivity": 6162
+      },
+      "2026-06-01": {
+        "yield": 98.97,
+        "productivity": 6132
+      },
+      "2026-06-02": {
+        "yield": 97.25,
+        "productivity": 6998
+      },
+      "2026-06-03": {
+        "yield": 98.83,
+        "productivity": 6227
+      },
+      "2026-06-04": {
+        "yield": 98.3,
+        "productivity": 6999
+      },
+      "2026-06-05": {
+        "yield": 98.08,
+        "productivity": 6154
+      },
+      "2026-06-06": {
+        "yield": 98.92,
+        "productivity": 6991
+      },
+      "2026-06-07": {
+        "yield": 97.03,
+        "productivity": 6058
+      },
+      "2026-06-08": {
+        "yield": 98.91,
+        "productivity": 6973
+      },
+      "2026-06-09": {
+        "yield": 98.13,
+        "productivity": 6037
+      },
+      "2026-06-10": {
+        "yield": 98.38,
+        "productivity": 6136
+      },
+      "2026-06-11": {
+        "yield": 98.68,
+        "productivity": 6910
+      },
+      "2026-06-12": {
+        "yield": 98.52,
+        "productivity": 6231
+      },
+      "2026-06-13": {
+        "yield": 97.8,
+        "productivity": 6999
+      },
+      "2026-06-14": {
+        "yield": 98.99,
+        "productivity": 6323
+      },
+      "2026-06-15": {
+        "yield": 97.34,
+        "productivity": 6990
+      },
+      "2026-06-16": {
+        "yield": 98.79,
+        "productivity": 6413
+      },
+      "2026-06-17": {
+        "yield": 98.37,
+        "productivity": 6972
+      },
+      "2026-06-18": {
+        "yield": 97.99,
+        "productivity": 6499
+      },
+      "2026-06-19": {
+        "yield": 98.95,
+        "productivity": 6945
+      },
+      "2026-06-20": {
+        "yield": 99,
+        "productivity": 6908
+      },
+      "2026-06-21": {
+        "yield": 97.44,
+        "productivity": 6658
+      },
+      "2026-06-22": {
+        "yield": 98.74,
+        "productivity": 6864
+      },
+      "2026-06-23": {
+        "yield": 97.64,
+        "productivity": 6328
+      },
+      "2026-06-24": {
+        "yield": 98.63,
+        "productivity": 6812
+      },
+      "2026-06-25": {
+        "yield": 98.58,
+        "productivity": 6417
+      },
+      "2026-06-26": {
+        "yield": 97.71,
+        "productivity": 6752
+      },
+      "2026-06-27": {
+        "yield": 98.99,
+        "productivity": 6502
+      },
+      "2026-06-28": {
+        "yield": 97.44,
+        "productivity": 6685
+      },
+      "2026-06-29": {
+        "yield": 98.74,
+        "productivity": 6583
+      },
+      "2026-06-30": {
+        "yield": 98.57,
+        "productivity": 6661
+      },
+      "2026-07-01": {
+        "yield": 98.1,
+        "productivity": 6877
+      },
+      "2026-07-02": {
+        "yield": 98.28,
+        "productivity": 6303
+      },
+      "2026-07-03": {
+        "yield": 98.84,
+        "productivity": 6827
+      },
+      "2026-07-04": {
+        "yield": 97.22,
+        "productivity": 6393
+      },
+      "2026-07-05": {
+        "yield": 98.97,
+        "productivity": 6977
+      },
+      "2026-07-06": {
+        "yield": 97.91,
+        "productivity": 6480
+      },
+      "2026-07-07": {
+        "yield": 98.44,
+        "productivity": 6952
+      },
+      "2026-07-08": {
+        "yield": 98.74,
+        "productivity": 6562
+      },
+      "2026-07-09": {
+        "yield": 97.43,
+        "productivity": 6918
+      },
+      "2026-07-10": {
+        "yield": 98.03,
+        "productivity": 6875
+      },
+      "2026-07-11": {
+        "yield": 98.94,
+        "productivity": 6712
+      },
+      "2026-07-12": {
+        "yield": 97.09,
+        "productivity": 6824
+      },
+      "2026-07-13": {
+        "yield": 98.89,
+        "productivity": 6776
+      },
+      "2026-07-14": {
+        "yield": 98.18,
+        "productivity": 6766
+      },
+      "2026-07-15": {
+        "yield": 98.21,
+        "productivity": 6484
+      },
+      "2026-07-16": {
+        "yield": 98.88,
+        "productivity": 6701
+      },
+      "2026-07-17": {
+        "yield": 97.12,
+        "productivity": 6566
+      },
+      "2026-07-18": {
+        "yield": 98.95,
+        "productivity": 6629
+      }
+    }
+  },
+  "statusData": {
+    "cut": {
+      "2026-08-15": [
+        {
+          "line": "CUT-09#",
+          "param": "切割压力",
+          "val": "7.5",
+          "up": "10",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-09#",
+          "param": "切割速度",
+          "val": "166",
+          "up": "300",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-09#",
+          "param": "下刀量",
+          "val": "0.3",
+          "up": "0.7",
+          "low": "0.3",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-10#",
+          "param": "切割压力",
+          "val": "5.0",
+          "up": "7",
+          "low": "3",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-10#",
+          "param": "切割速度",
+          "val": "153",
+          "up": "300",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-10#",
+          "param": "下刀量",
+          "val": "0.3",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-11#",
+          "param": "切割压力",
+          "val": "7.1",
+          "up": "10",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-11#",
+          "param": "切割速度",
+          "val": "166",
+          "up": "300",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-11#",
+          "param": "下刀量",
+          "val": "0.3",
+          "up": "0.7",
+          "low": "0.3",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-12#",
+          "param": "切割压力",
+          "val": "7.2",
+          "up": "10",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-12#",
+          "param": "切割速度",
+          "val": "245",
+          "up": "300",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "CUT-12#",
+          "param": "下刀量",
+          "val": "0.3",
+          "up": "0.7",
+          "low": "0.3",
+          "status": "OK"
+        }
+      ]
+    },
+    "iqc": {},
+    "pfa": {
+      "2026-08-15": [
+        {
+          "line": "PFA-03#",
+          "param": "研磨时间",
+          "val": "4.8",
+          "up": "6.5",
+          "low": "2.4",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-03#",
+          "param": "研磨速度",
+          "val": "150",
+          "up": "288",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-03#",
+          "param": "研磨压力",
+          "val": "30",
+          "up": "30",
+          "low": "1",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-03#",
+          "param": "贴附压力",
+          "val": "0.35",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-03#",
+          "param": "贴附速度",
+          "val": "400",
+          "up": "800",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-05#",
+          "param": "研磨时间",
+          "val": "5.4",
+          "up": "6.5",
+          "low": "2.4",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-05#",
+          "param": "研磨速度",
+          "val": "150",
+          "up": "288",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-05#",
+          "param": "研磨压力",
+          "val": "30",
+          "up": "30",
+          "low": "1",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-05#",
+          "param": "贴附压力",
+          "val": "0.30",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-05#",
+          "param": "贴附速度",
+          "val": "300",
+          "up": "800",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-06#",
+          "param": "研磨时间",
+          "val": "5.4",
+          "up": "6.5",
+          "low": "2.4",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-06#",
+          "param": "研磨速度",
+          "val": "150",
+          "up": "288",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-06#",
+          "param": "研磨压力",
+          "val": "30",
+          "up": "30",
+          "low": "1",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-06#",
+          "param": "贴附压力",
+          "val": "0.30",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-06#",
+          "param": "贴附速度",
+          "val": "300",
+          "up": "800",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-09#",
+          "param": "研磨时间",
+          "val": "5.4",
+          "up": "6.5",
+          "low": "2.4",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-09#",
+          "param": "研磨速度",
+          "val": "120",
+          "up": "288",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-09#",
+          "param": "研磨压力",
+          "val": "30",
+          "up": "30",
+          "low": "1",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-09#",
+          "param": "贴附压力",
+          "val": "0.30",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-09#",
+          "param": "贴附速度",
+          "val": "300",
+          "up": "800",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-10#",
+          "param": "研磨时间",
+          "val": "5.4",
+          "up": "6.5",
+          "low": "2.4",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-10#",
+          "param": "研磨速度",
+          "val": "130",
+          "up": "288",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-10#",
+          "param": "研磨压力",
+          "val": "25",
+          "up": "30",
+          "low": "1",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-10#",
+          "param": "贴附压力",
+          "val": "0.30",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-10#",
+          "param": "贴附速度",
+          "val": "400",
+          "up": "800",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-11#",
+          "param": "研磨时间",
+          "val": "5.0",
+          "up": "6.5",
+          "low": "2.4",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-11#",
+          "param": "研磨速度",
+          "val": "150",
+          "up": "288",
+          "low": "100",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-11#",
+          "param": "研磨压力",
+          "val": "25",
+          "up": "30",
+          "low": "1",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-11#",
+          "param": "贴附压力",
+          "val": "0.30",
+          "up": "0.4",
+          "low": "0.2",
+          "status": "OK"
+        },
+        {
+          "line": "PFA-11#",
+          "param": "贴附速度",
+          "val": "600",
+          "up": "800",
+          "low": "100",
+          "status": "OK"
+        }
+      ]
+    },
+    "bonding": {
+      "2026-08-15": [
+        {
+          "line": "BD-03#",
+          "param": "本压时间",
+          "val": "5",
+          "up": "6",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "BD-03#",
+          "param": "本压温度",
+          "val": "175",
+          "up": "200",
+          "low": "160",
+          "status": "OK"
+        },
+        {
+          "line": "BD-03#",
+          "param": "本压压力",
+          "val": "0.52",
+          "up": "0.55",
+          "low": "0.45",
+          "status": "OK"
+        },
+        {
+          "line": "BD-05#",
+          "param": "本压时间",
+          "val": "5",
+          "up": "6",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "BD-05#",
+          "param": "本压温度",
+          "val": "177",
+          "up": "200",
+          "low": "160",
+          "status": "OK"
+        },
+        {
+          "line": "BD-05#",
+          "param": "本压压力",
+          "val": "0.48",
+          "up": "0.55",
+          "low": "0.45",
+          "status": "OK"
+        },
+        {
+          "line": "BD-06#",
+          "param": "本压时间",
+          "val": "5",
+          "up": "6",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "BD-06#",
+          "param": "本压温度",
+          "val": "179",
+          "up": "200",
+          "low": "160",
+          "status": "OK"
+        },
+        {
+          "line": "BD-06#",
+          "param": "本压压力",
+          "val": "0.48",
+          "up": "0.55",
+          "low": "0.45",
+          "status": "OK"
+        },
+        {
+          "line": "BD-09#",
+          "param": "本压时间",
+          "val": "5",
+          "up": "6",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "BD-09#",
+          "param": "本压温度",
+          "val": "185",
+          "up": "200",
+          "low": "160",
+          "status": "OK"
+        },
+        {
+          "line": "BD-09#",
+          "param": "本压压力",
+          "val": "0.51",
+          "up": "0.55",
+          "low": "0.45",
+          "status": "OK"
+        },
+        {
+          "line": "BD-10#",
+          "param": "本压时间",
+          "val": "5",
+          "up": "6",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "BD-10#",
+          "param": "本压温度",
+          "val": "183",
+          "up": "200",
+          "low": "160",
+          "status": "OK"
+        },
+        {
+          "line": "BD-10#",
+          "param": "本压压力",
+          "val": "0.52",
+          "up": "0.55",
+          "low": "0.45",
+          "status": "OK"
+        },
+        {
+          "line": "BD-11#",
+          "param": "本压时间",
+          "val": "5",
+          "up": "6",
+          "low": "4",
+          "status": "OK"
+        },
+        {
+          "line": "BD-11#",
+          "param": "本压温度",
+          "val": "184",
+          "up": "200",
+          "low": "160",
+          "status": "OK"
+        },
+        {
+          "line": "BD-11#",
+          "param": "本压压力",
+          "val": "0.52",
+          "up": "0.55",
+          "low": "0.45",
+          "status": "OK"
+        }
+      ]
+    },
+    "assy": {
+      "2026-08-15": [
+        {
+          "line": "ASSY-01#",
+          "param": "组装速度",
+          "val": "20",
+          "up": "45",
+          "low": "15",
+          "status": "OK"
+        },
+        {
+          "line": "ASSY-01#",
+          "param": "保压时间",
+          "val": "0.5s",
+          "up": "0.7",
+          "low": "0.3",
+          "status": "OK"
+        },
+        {
+          "line": "ASSY-02#",
+          "param": "组装速度",
+          "val": "40",
+          "up": "45",
+          "low": "15",
+          "status": "OK"
+        },
+        {
+          "line": "ASSY-02#",
+          "param": "保压时间",
+          "val": "0.5s",
+          "up": "0.7",
+          "low": "0.3",
+          "status": "OK"
+        }
+      ]
+    }
+  },
+  "chartsData": {
+    "particleSize": {},
+    "bondingCoupling": {}
+  }
+}
